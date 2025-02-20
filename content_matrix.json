@@ -1,0 +1,306 @@
+[
+    {
+        "level1":"Leak Detection",
+        "level2":"Acoustic Leak Detection: \n- Uses sensitive microphones and acoustic sensors to detect sound variations caused by water escaping from pipes.\n- Commonly used in water distribution networks and for underground pipes.\nExamples: correlators, ground microphones, and noise loggers.\n",
+        "cd":"Commercial",
+        "company":"Aquarius Spectrum (by Oilaxis)",
+        "website":"https:\/\/www.aquarius-spectrum.com\/",
+        "offering":"Aquarius Spectrum (by Oilaxis): Develops fixed and mobile leak detection solutions, employing acoustic sensors and advanced algorithms to monitor water distribution networks for leaks."
+    },
+    {
+        "level1":"Leak Detection",
+        "level2":"Pressure Monitoring Systems: - Monitors pressure changes within a pipeline system to identify potential leaks.\n- Sudden drops in pressure can indicate a leak.\n- Often integrated with SCADA systems for real-time monitoring.",
+        "cd":"Commercial",
+        "company":"HWM",
+        "website":"https:\/\/www.hwmglobal.com\/",
+        "offering":"HWM: Offers monitoring and telemetry solutions for water, wastewater, and gas networks, focusing on leak detection and network management."
+    },
+    {
+        "level1":"Leak Detection",
+        "level2":"Flow Monitoring and Analysis: _ Compares inflow and outflow to detect discrepancies indicating leakage.\n_ Can use mechanical, ultrasonic, or electromagnetic flow meters.\n_ Useful in both residential and commercial water systems.",
+        "cd":"Domestic and Commercial",
+        "company":"ADS",
+        "website":"https:\/\/www.adsenv.com\/",
+        "offering":"Provides flow monitoring solutions to detect discrepancies indicating leakage."
+    },
+    {
+        "level1":"Leak Detection",
+        "level2":"Infrared and Thermal Imaging:  \n- Uses infrared cameras to detect temperature changes caused by escaping fluids.\n- Effective for detecting leaks in large or inaccessible areas.\nCommonly applied in building inspections and pipeline monitoring.",
+        "cd":"Commercial ",
+        "company":"GPRS",
+        "website":"https:\/\/www.gp-radar.com\/",
+        "offering":"Utilizes infrared cameras for large-scale inspections in commercial and municipal settings to detect leaks."
+    },
+    {
+        "level1":"Leak Detection",
+        "level2":"Tracer Gas Detection: \n- Introduces a non-toxic, inert tracer gas (e.g., hydrogen or helium) into a pipeline.\n- Specialized sensors detect escaping gas at leak points.\n- Frequently used when other methods are ineffective.",
+        "cd":"Commercial",
+        "company":"The Leak Detection Company",
+        "website":"https:\/\/www.theleakdetectioncompany.com\/",
+        "offering":"Specializes in using tracer gas methods to detect leaks in large or complex piping networks, primarily for commercial applications."
+    },
+    {
+        "level1":"Leak Detection",
+        "level2":"Smart Metering and IoT-Based Solutions: \n-Uses smart water meters combined with IoT sensors to detect abnormal water usage patterns.\n- Provides real-time data and automated alerts.\n- Suitable for household, commercial, and municipal applications.",
+        "cd":"Domestic and Commercial ",
+        "company":"Aqualeak",
+        "website":"https:\/\/www.aqualeak.com\/",
+        "offering":"Offers smart water meters combined with IoT sensors to detect abnormal water usage patterns in both domestic and commercial settings."
+    },
+    {
+        "level1":"Pipe Inspection etc",
+        "level2":"1. Acoustic-Based Condition Assessment",
+        "cd":"Commercial",
+        "company":"Echologics (a Mueller brand) ",
+        "website":"https:\/\/www.echologics.com\/",
+        "offering":"Known for non-invasive pipe condition assessment."
+    },
+    {
+        "level1":"Pipe Inspection etc",
+        "level2":"2. Smart Sensors & IoT Solutions",
+        "cd":"Domestic and Commercial",
+        "company":"HWM ",
+        "website":"https:\/\/www.hwmglobal.com\/",
+        "offering":"Provides pressure and flow monitoring devices."
+    },
+    {
+        "level1":"Pipe Inspection etc",
+        "level2":"3. Ground Penetrating Radar (GPR) and Electromagnetic Scanning",
+        "cd":"Commercial",
+        "company":"GPRS",
+        "website":"https:\/\/www.gprs.com\/",
+        "offering":"Ground Penetrating Radar for locating utilities and assessing pipe condition."
+    },
+    {
+        "level1":"Pipe Inspection etc",
+        "level2":"4. Robotic & CCTV Inspections",
+        "cd":"Commercial",
+        "company":"Lanes Group",
+        "website":"https:\/\/www.lanesfordrains.co.uk\/",
+        "offering":"Robotic and CCTV pipe inspections."
+    },
+    {
+        "level1":"Pipe Inspection etc",
+        "level2":"5. Pressure and Flow Analysis for Structural Assessment",
+        "cd":"Commercial",
+        "company":"Primayer (Aqua Technology Solutions)",
+        "website":"https:\/\/www.primayer.com\/",
+        "offering":"Pressure transient monitoring."
+    },
+    {
+        "level1":"Pipe Inspection etc",
+        "level2":"6. Satellite Imaging and Aerial Surveillance",
+        "cd":"Commercial",
+        "company":"Asterra",
+        "website":"https:\/\/www.asterra.io\/",
+        "offering":"Uses satellite-based synthetic aperture radar (SAR) for condition assessment."
+    },
+    {
+        "level1":"Pressure Management",
+        "level2":"Pressure Management Systems",
+        "cd":"Commerical",
+        "company":"HWM",
+        "website":"https:\/\/www.hwmglobal.com\/",
+        "offering":"Pressure monitoring and transient detection devices."
+    },
+    {
+        "level1":"Pressure Management",
+        "level2":"Flow Monitoring and Control",
+        "cd":"Domestic and Commercial",
+        "company":"ADS ",
+        "website":"https:\/\/www.adsenv.com\/",
+        "offering":"Flow monitoring solutions for sewer and water networks."
+    },
+    {
+        "level1":"Pressure Management",
+        "level2":"6. Predictive Analytics & Optimization Software",
+        "cd":"Commercial",
+        "company":"BuntPlanet",
+        "website":"https:\/\/www.buntplanet.com\/",
+        "offering":" AI-based predictive analytics."
+    },
+    {
+        "level1":"Pressure Management",
+        "level2":"Emerging and Niche Solutions",
+        "cd":"Commercial",
+        "company":"Matchpoint ",
+        "website":"https:\/\/www.matchpointinc.us\/",
+        "offering":" Integrated pressure management for water utilities."
+    },
+    {
+        "level1":"Flow Control ",
+        "level2":"Flow Monitoring & Control",
+        "cd":"Commercial",
+        "company":"ADS",
+        "website":"www.adsenv.com",
+        "offering":"Provides advanced flow monitoring and management solutions for wastewater systems, including flow meters and software for data analysis."
+    },
+    {
+        "level1":"Flow Control ",
+        "level2":"Urinal Controls",
+        "cd":"Commercial",
+        "company":"Cistermiser",
+        "website":"www.cistermiser.co.uk",
+        "offering":"Cistermiser provides a range of urinal flushing control solutions designed to conserve water and ensure efficient operation:\nHydraulic Valve: This automatic urinal flush control valve operates without the need for external power. It uses a patented mechanism that allows the cistern to fill and flush only when the washroom is in use, effectively reducing water consumption. \nCISTERMISER.CO.UK\nInfrared Control (IRC) Valve: Equipped with a Passive Infrared (PIR) sensor, this valve detects movement and manages the water supply to the urinal cistern accordingly. It's available in mains and\/or battery-powered versions. \nCISTERMISER.CO.UK\nDirect Flush Valve with Infrared Sensor: Designed for mains-fed urinal flushing, this valve uses an infrared sensor to control flushing, ensuring hygiene and water efficiency\nFor a visual demonstration of Cistermiser's IRC and Standard (STD) valves, you might find the following video helpful: https:\/\/youtu.be\/IVvNiZluoJI"
+    },
+    {
+        "level1":"Flow Control ",
+        "level2":"Toilet Flush Controls",
+        "cd":"Domestic & Commercial",
+        "company":"Fluidmaster",
+        "website":"www.fluidmaster.com",
+        "offering":"Fluidmaster specializes in toilet repair parts, including a variety of flush valves designed to enhance flushing performance and efficiency:\nToilet Flush Valves: These valves control the release of water from the tank to the bowl when the flush lever is pressed. Fluidmaster offers both 2-inch and 3-inch flush valves to accommodate different toilet models"
+    },
+    {
+        "level1":"Flow Control ",
+        "level2":"Shower Flow Regulators",
+        "cd":"Domestic & Commercial",
+        "company":"Hansgrohe",
+        "website":"www.hansgrohe.com",
+        "offering":"Hansgrohe offers a range of showerheads and hand showers designed to provide efficient water flow while ensuring a luxurious shower experience. Their products feature flow rates ranging from 1.5 to 2.0 gallons per minute (GPM), adhering to WaterSense certification standards. Innovative technologies such as AirPower enrich the water with air, creating fuller, lighter droplets, while EcoRight technology reduces water consumption by up to 40% without compromising performance. Additionally, QuickClean technology allows for easy removal of limescale deposits, maintaining consistent water flow.\nhttps:\/\/www.youtube.com\/watch?v=IVvNiZluoJI"
+    },
+    {
+        "level1":"Flow Control ",
+        "level2":"Pressure-Compensating Valves",
+        "cd":"Commercial",
+        "company":"Honeywell (Braukmann)",
+        "website":"www.honeywellhome.com",
+        "offering":"Honeywell's Braukmann series includes pressure-reducing valves designed to protect household water installations from excessive supply pressure. The D06F model features a balanced seat and set point scale, ensuring consistent outlet pressure despite fluctuations in inlet pressure. This valve is suitable for both residential and commercial applications, aiming to prevent pressurization damage and reduce water consumption."
+    },
+    {
+        "level1":"Smart Metering and IoT",
+        "level2":"1. Advanced Metering Infrastructure (AMI)",
+        "cd":"Domestic and Commercial",
+        "company":"HWM ",
+        "website":"https:\/\/www.hwmglobal.com\/",
+        "offering":" Data loggers and AMI solutions for water utilities."
+    },
+    {
+        "level1":"Smart Metering and IoT",
+        "level2":"3. IoT-Based Smart Metering Solutions",
+        "cd":"Domestic and Commercial ",
+        "company":"LeakBot ",
+        "website":"https:\/\/www.leakbot.io\/",
+        "offering":"Smart home leak detection via connected flow monitors."
+    },
+    {
+        "level1":"Smart Metering and IoT",
+        "level2":"4. Smart Meter Data Analytics",
+        "cd":"Domestic and Commercial",
+        "company":"BuntPlanet ",
+        "website":"https:\/\/www.buntplanet.com\/",
+        "offering":"AI-powered data analytics for water utilities."
+    },
+    {
+        "level1":"Smart Metering and IoT",
+        "level2":"5. Smart Metering for Non-Household Applications",
+        "cd":"Commercial",
+        "company":"WaterSignal ",
+        "website":"https:\/\/www.watersignal.com\/",
+        "offering":" Focused on commercial buildings and facilities."
+    },
+    {
+        "level1":"Smart Metering and IoT",
+        "level2":"6. Smart Metering Integration with Leak Detection",
+        "cd":"Domestic and Commercial",
+        "company":"LeakBot",
+        "website":"https:\/\/www.leakbot.io\/",
+        "offering":"Monitors water usage patterns to detect potential leaks."
+    },
+    {
+        "level1":"Smart Metering and IoT",
+        "level2":"7. Smart Metering for Water Efficiency and Conservation",
+        "cd":"Domestic and Commercial ",
+        "company":"Flume",
+        "website":"www.flumewater.com",
+        "offering":"Consumer-oriented meters encouraging water-saving behavior."
+    },
+    {
+        "level1":"Smart Metering and IoT",
+        "level2":"Emerging Technologies and Innovations",
+        "cd":"Commercial ",
+        "company":"Asterra",
+        "website":"www.asterra.io",
+        "offering":"Satellite imaging combined with smart meter data for efficiency planning."
+    },
+    {
+        "level1":"Sustainable Urban Drainage Systems (SuDS)",
+        "level2":"Purpose:",
+        "cd":"Commercial",
+        "company":"Polypipe Civils & Green Urbanisation",
+        "website":"Polypipe Civils & Green Urbanisation \u2013 www.polypipe.com",
+        "offering":"Modular attenuation tanks, geocellular drainage, and green infrastructure."
+    },
+    {
+        "level1":"Greywater Recycling",
+        "level2":"Purpose:",
+        "cd":"Domestic",
+        "company":"ReAqua Systems",
+        "website":"ReAqua Systems \u2013 www.reaqua.com",
+        "offering":"Domestic greywater recycling systems for irrigation and flushing."
+    },
+    {
+        "level1":"Rainwater Harvesting",
+        "level2":"Purpose:",
+        "cd":"Domestic & Commercial",
+        "company":"Kingspan Water & Energy",
+        "website":"Kingspan Water & Energy \u2013 www.kingspan.com",
+        "offering":"Above and below-ground rainwater tanks for domestic and commercial use."
+    },
+    {
+        "level1":"Closed Loop Systems",
+        "level2":"Closed loop water treatment systems recycle and reuse water within industrial and commercial processes, reducing water consumption and minimizing environmental impact. These systems are essential in industries like power generation, chemical processing, and manufacturing, where large volumes of water are used for cooling, heating, or processing.",
+        "cd":"Commercial",
+        "company":"ChemREADY",
+        "website":"https:\/\/www.getchemready.com\/",
+        "offering":"Provides closed loop water treatment services that include filtration, chemical treatment, disinfection, and recirculation to maintain water quality and reduce consumption in industrial systems."
+    },
+    {
+        "level1":"Landscaping, agricultural, and outdoor water reuse",
+        "level2":"Implementing water reuse systems in landscaping and agriculture conserves potable water by utilizing alternative sources such as greywater or harvested rainwater. This practice is beneficial for irrigation in both residential gardens and large-scale agricultural operations, promoting sustainability and reducing water costs.",
+        "cd":"Commercial and Domestic",
+        "company":"Biwater",
+        "website":"https:\/\/www.biwater.com\/",
+        "offering":"Specializes in designing and constructing water and wastewater treatment plants, including systems for water reuse in agricultural and landscaping applications"
+    },
+    {
+        "level1":"On-site water reuse systems",
+        "level2":"On-site water reuse systems treat and repurpose wastewater (such as greywater) within the same location where it is generated. This approach reduces the demand for fresh water and decreases the volume of wastewater discharged into municipal systems. It's applicable in residential settings for toilet flushing and irrigation, as well as in commercial buildings for various non-potable uses",
+        "cd":"Commercial and Domestic",
+        "company":"Biwater",
+        "website":"https:\/\/www.biwater.com\/",
+        "offering":"Provides solutions for on-site water reuse, including the design and implementation of treatment systems that allow for the safe reuse of wastewater in various applications."
+    },
+    {
+        "level1":"Water and energy integration",
+        "level2":" Integrating water and energy systems involves optimizing the use of both resources simultaneously. In industrial settings, this can mean recovering energy from wastewater treatment processes or implementing systems that reduce both water and energy consumption. This holistic approach leads to cost savings and environmental benefits.",
+        "cd":"Commercial",
+        "company":"Closed Loop Partners",
+        "website":"https:\/\/www.closedlooppartners.com\/",
+        "offering":"Invests in innovative technologies and solutions that promote the circular economy, including those that integrate water and energy efficiencies in industrial processes."
+    },
+    {
+        "level1":"Stormwater management solutions",
+        "level2":"Stormwater management solutions aim to control and use rainwater runoff to prevent flooding, reduce pollution, and replenish groundwater. In urban areas, implementing green infrastructure like rain gardens, permeable pavements, and green roofs can transform cities into \"sponge cities,\" absorbing and utilizing stormwater effectively.",
+        "cd":"Commercial and Domestic",
+        "company":"Biwater",
+        "website":"https:\/\/www.biwater.com\/",
+        "offering":"Provides comprehensive stormwater management solutions, including the design and implementation of infrastructure to effectively manage runoff and enhance water quality."
+    },
+    {
+        "level1":"Water audits",
+        "level2":"Water audits involve assessing water use within a facility or household to identify areas of inefficiency and recommend improvements. This process helps in reducing water consumption, lowering utility bills, and promoting sustainable water use practices.",
+        "cd":"Commercial and Domestic",
+        "company":"ChemREADY",
+        "website":"https:\/\/www.getchemready.com\/",
+        "offering":"Offers water treatment solutions that can be part of a comprehensive water audit to optimize water usage and quality in industrial applications."
+    },
+    {
+        "level1":"Water efficiency labeling",
+        "level2":"Water efficiency labeling programs certify products and appliances that meet specific water-saving criteria, guiding consumers and businesses in selecting fixtures that reduce water usage. This initiative promotes the adoption of water-efficient technologies and practices across various sectors.",
+        "cd":"Commercial and Domestic",
+        "company":"Waterwise",
+        "website":"https:\/\/www.waterwise.org.uk\/",
+        "offering":"An independent, not-for-profit organization focused on reducing water consumption in the UK by promoting water efficiency and labeling schemes."
+    }
+]
