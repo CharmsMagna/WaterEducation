@@ -72,11 +72,7 @@
     </div>
 
     <script>
-        // Sample Data (Replace this with real data insertion)
-        var interventions = [
-            {level1: "Leak Detection", level2: "Acoustic Leak Detection", cd: "Commercial", company: "Aquarius Spectrum", website: "https://www.aquarius-spectrum.com/", offering: "Develops fixed and mobile leak detection solutions."},
-            {level1: "Pipe Inspection", level2: "Non-Intrusive Assessment", cd: "Commercial", company: "Echologics", website: "https://www.echologics.com/", offering: "Non-invasive pipe condition assessment."}
-        ];
+        var interventions = " + interventions_json + ";
 
         function populateFilters() {
             let level1Set = new Set(), level2Set = new Set(), cdSet = new Set();
@@ -116,4 +112,3 @@
     </script>
 </body>
 </html>
-
