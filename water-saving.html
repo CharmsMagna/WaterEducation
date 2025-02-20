@@ -72,7 +72,15 @@
     </div>
 
     <script>
-        var interventions = " + interventions_json + ";
+        // Fetch data from external JSON file
+        fetch('content_matrix.json') // Ensure this file is uploaded to your server
+            .then(response => response.json())
+            .then(data => {
+                interventions = data;
+                populateFilters();
+                renderTable();
+            })
+            .catch(error => console.error('Error loading JSON:', error));
 
         function populateFilters() {
             let level1Set = new Set(), level2Set = new Set(), cdSet = new Set();
@@ -105,8 +113,6 @@
         }
 
         $(document).ready(function() {
-            populateFilters();
-            renderTable();
             $("select, #filter-company").on("change keyup", renderTable);
         });
     </script>
