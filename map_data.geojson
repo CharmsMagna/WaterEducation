@@ -1,0 +1,1400 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.246,
+                    49.2606
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Rain water harvesting",
+                "summary": "Water Efficiency at the Centre for Interactive Research on Sustainability (CIRS)\nType of Customer: Academic Research Facility\nWho Did It: University of British Columbia, Perkins+Will\nWhat They Did: CIRS was designed to achieve net-zero water. The building captures and reuses rainwater and treats wastewater through an on-site solar aquatics biofiltration system.\nResult: Reduced dependence on municipal water infrastructure, with water reuse systems significantly lowering overall water ",
+                "link": "https://livinglabs.ubc.ca/sites/default/files/2022-08/CIRS%20Overview%20Perkins%20and%20Will%20Architects.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.7341,
+                    30.2849
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Rain water harvesting",
+                "summary": "University Implements Onsite Alternative Water Sources\nType of Customer: University\nWho Did It: University of Texas at Austin\nWhat They Did: Implemented programs to recover and reuse onsite alternative water sources, including single-pass cooling water, foundation groundwater, air handler condensate, and rainwater harvesting, to serve non-potable water needs across the campus.\nResult: Reduced potable water use by more than 33%, saving over 1.6 billion gallons of water and $7.5 million since the program\u2019s inception in the 1980s.",
+                "link": "https://www.epa.gov/sites/default/files/2017-01/documents/ws-commercial-casestudy-ut-austin.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6917,
+                    35.6895
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Rain water harvesting",
+                "summary": "Tokyo Bay eSG Project\nType of Customer: Urban development initiative\nWho Did It: Regenerative Community of Tokyo\nWhat They did: Developed water-sensitive urban design (WSUD) strategies, including integrated water management systems to capture and reuse rainwater for irrigation and non-potable uses, along with advanced wastewater treatment technologies.\nResult: Reduced reliance on external water sources, mitigated urban flooding risks, and ensured a sustainable supply of water for public and green spaces.",
+                "link": "https://www.wired.com/story/heres-what-the-sustainable-cities-of-tomorrow-could-look-like/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.9253,
+                    -14.235
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Rain water harvesting",
+                "summary": "The One Million Cisterns Program, Brazil\nType of Customer: Rural Communities\nWho Did It: Semi-Arid Articulation (ASA) and the Brazilian Government\nWhat They Did: Implemented the One Million Cisterns Program (P1MC) to provide water security to rural families in northeastern Brazil. The program involved constructing 16,000-liter capacity cisterns to collect and store rainwater for drinking, cooking, and basic sanitation.   \nResult: By 2016, over 1.2 million cisterns were installed, benefiting approximately 6 million people. Enhanced water availability during dry periods, improving health and quality of life. Empowered communities to manage their water resources effectively.",
+                "link": "https://waterconservationsummit.com/the-untapped-potential-of-rainwater-harvesting-a-sustainable-solution-for-a-thirsty-planet/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.2179,
+                    27.0238
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Rain water harvesting",
+                "summary": "Taanka Systems in Rajasthan, India\nType of Customer: Rural Households\nWho Did It: Local Communities in Rajasthan\nWhat They Did: Developed traditional underground rainwater harvesting systems known as taankas to provide drinking water in the arid Thar Desert region. These systems involve constructing covered, underground cisterns to collect and store rainwater from rooftops and courtyards.   \nResult: Reduced the daily task of fetching water from distant sources. Improved water quality and availability for drinking purposes.",
+                "link": "https://waterconservationsummit.com/the-untapped-potential-of-rainwater-harvesting-a-sustainable-solution-for-a-thirsty-planet/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6784,
+                    45.5152
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Rain water harvesting",
+                "summary": "Sustainable Water Management at The Woodlawn\nType of Customer: Mixed-Use Residential and Commercial Property\nWho Did It: The Woodlawn, located in Portland, Oregon\nWhat They Did: Implemented a rainwater harvesting system that collects water from the roof into a 9,000-gallon concrete cistern. Utilized a BaseStation 3200\u2122 irrigation controller integrated with a Munro pump system to distribute the harvested rainwater to irrigate green walls and the roof. Installed Baseline biSensor\u2122 soil moisture sensors to monitor moisture levels at various points of the green walls.\nResult: Achieved LEED Platinum certification, demonstrating a commitment to sustainable building practices. The system efficiently manages water resources, supports the health of green infrastructure, and reduces reliance on municipal water supplies.",
+                "link": "https://www.hydropoint.com/case-studies/the-woodlawn-case-study/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4194,
+                    37.7749
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Rain water harvesting",
+                "summary": "San Francisco\u2019s Onsite Water Reuse Program\nType of Customer: Urban Buildings\nWho Did It: San Francisco Public Utilities Commission\nWhat They Did: In 2015, San Francisco introduced the Onsite Water Reuse Program, mandating that all new buildings of 250,000 square feet or more install on-site water-treatment systems for non-potable uses. This initiative aimed to reduce the city\u2019s dependence on imported water and promote sustainable water practices.   \nResult: Significant reduction in potable water consumption for non-potable purposes. Enhanced resilience of buildings to water supply disruptions.",
+                "link": "https://www.businessinsider.com/how-californias-on-site-water-recycling-can-boost-water-conservation-2024-7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9375,
+                    -30.5595
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Rain water harvesting",
+                "summary": "Rainwater Harvesting\nType of Customer: Residential and commercial properties\nWho Did It: Various South African municipalities\nWhat They Did: Installed rainwater harvesting systems to supplement water supply.\nResult: Reduced demand on municipal water systems.\n",
+                "link": "https://www.dws.gov.za/Projects/WUE/Documents/Compendium%20of%20WCWDM%20Case%20Studies%20-%20Final%20Document.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.436,
+                    55.3781
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Rain water harvesting",
+                "summary": "Rainwater Harvesting Systems in Agriculture\nType of Customer: Agriculture, Forestry, and Fishing Sector\nWho Did It: Self-suppliers in collaboration with water efficiency advisors\nWhat They Did: Installed rainwater harvesting systems to capture and store rainwater for irrigation and livestock needs.\nResult: Reduced dependency on freshwater resources and improved sustainability in operations.",
+                "link": "https://mosl.co.uk/document/groups-and-committees/retailer-wholesaler-group/rwg-water-efficiency-guidance/4704-rwg-non-household-customer-water-efficiency-survey-results-nov-2021/file"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Rain water harvesting",
+                "summary": "Rainwater Harvesting System for Irrigation and Flushing\nType of Customer: Commercial Buildings\nWho Did It: Estidama Pearl Rating System and LEED-certified projects\nWhat They Did: Installed RWHS to capture and store rainwater for landscaping irrigation and toilet flushing, following LEED guidelines.\nResult: Reduced water consumption by up to 95% in tropical climates depending on rainfall and system design.",
+                "link": "https://www.mdpi.com/2073-4441/16/17/2396"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.436,
+                    55.3781
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Rain water harvesting",
+                "summary": "Industrial Water Recycling \nType of Customer: Manufacturing Facilities\nWho Did It: UK Water Efficiency Strategy Group and supported by Anglian Water\nWhat They Did: Installed on-site water recycling systems to treat and reuse process water, reducing the demand for freshwater and minimizing wastewater discharge.\nResult: Decreased water usage by up to 50%, resulting in substantial cost savings and compliance with environmental regulations.",
+                "link": "https://database.waterwise.org.uk/wp-content/uploads/2024/05/WES-Progress-Report-May-2024-web-final.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.4936,
+                    29.4241
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Rain water harvesting",
+                "summary": "Car Wash Chain Drives Down Water Use With Efficiency Upgrades\nType of Customer: Car Wash Chain\nWho Did It: H.E.B. Car Wash Facilities, San Antonio, Texas\nWhat They Did: H.E.B. upgraded 24 of its car wash facilities by installing high-efficiency reverse osmosis (RO) units and water reclaim systems. These upgrades were implemented through participation in the San Antonio Water System\u2019s (SAWS) Commercial Custom Rebate program.\nResult: The improvements led to permanent water savings of more than 24 million gallons annually, resulting in over $144,000 in annual water and sewer cost savings.",
+                "link": "https://www.epa.gov/sites/default/files/2017-05/documents/ws-commercial-casestudy-heb-commercial-carwash-508.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.7816,
+                    36.1627
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Rain water harvesting",
+                "summary": "Advanced Irrigation at Nashville\u2019s Riverfront Park and Amphitheater\nType of Customer: Municipal Park and Amphitheater\nWho Did It: a landscape architecture firm with hydropoint\nWhat They Did: Designed and implemented an advanced irrigation system using Baseline\u2019s BaseStation 3200\u2122 controllers and biSensor\u2122 soil moisture sensors. The system prioritizes rainwater from a 350,000-gallon storage tank, switching to well or city water as needed.\nResult: Achieved efficient water management, contributing to LEED Silver certification. Ensured optimal soil moisture, supported healthy gardens and event lawns, and aligned with sustainability goals.",
+                "link": "https://www.hydropoint.com/case-studies/nashvilles-riverfront-park-and-amphitheater-case-study/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.436,
+                    55.3781
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Rain water harvesting",
+                "summary": " Water Reuse in Commercial Buildings\nType of Customer: Commercial Buildings (Offices, Retail Centers)\nWho Did It: Johnson Controls\nWhat They Did: Installed systems to capture and treat greywater and rainwater for non-potable uses such as toilet flushing and landscape irrigation. Upgraded to water-efficient fixtures and conducted regular maintenance to prevent leaks. \nResult: Reduced reliance on municipal water supply, lowering utility bills and enhancing environmental stewardship. Some buildings achieved water savings of up to 40%.",
+                "link": "https://mosl.co.uk/document/market-improvement/strategic-metering-programme/key-documents-smr/strategic-programmes/7997-strategic-panel-national-metering-strategy-for-the-nhh-market-1/file#:~:text=Dear%20Chief%20Executive%2C,of%20Wholesalers'%20smart%20metering%20plans."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.9319,
+                    -26.6701
+                ]
+            },
+            "properties": {
+                "category": "Pressure management and control flow & pipe condition monitoring",
+                "summary": "Pressure Management\nType of Customer: Municipal water systems\nWho Did It: Emfuleni Local Municipality and others\nWhat They Did: Installed pressure-reducing valves and managed system pressure to reduce pipe bursts and leaks.\nResult: Water savings of up to 9 million cubic meters annually in some cases, such as Sebokeng and Evaton.\n\n\nDate of the Study: 2010",
+                "link": "https://www.dws.gov.za/Projects/WUE/Documents/Compendium%20of%20WCWDM%20Case%20Studies%20-%20Final%20Document.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9375,
+                    -30.5595
+                ]
+            },
+            "properties": {
+                "category": "Leak detection and maintanance",
+                "summary": "Leak Detection and Repair Programs South Africa\nType of Customer: Municipalities\nWho Did It: Various South African municipalities\nWhat They Did: Conducted leak detection surveys and repaired leaks in water distribution systems to minimize water losses.\nResult: Reduced water losses significantly, enhancing system efficiency and cost savings.",
+                "link": "https://www.dws.gov.za/Projects/WUE/Documents/Compendium%20of%20WCWDM%20Case%20Studies%20-%20Final%20Document.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.436,
+                    55.3781
+                ]
+            },
+            "properties": {
+                "category": "Leak detection and maintanance",
+                "summary": "Leak Detection and Repair for a Multi-Site Holiday Park Client\nType of Customer: Leisure and Hospitality\nWho Did It: The Water Retail Company\nWhat They Did: Conducted leak detection and repair services across multiple sites with water-dependent facilities.\nResult: Identification and repair of leaks, leading to water conservation and cost savings.",
+                "link": "https://thewaterretailcompany.co.uk/case-studies/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.4936,
+                    29.4241
+                ]
+            },
+            "properties": {
+                "category": "Leak detection and maintanance",
+                "summary": "Hotel Installs Water-Efficient Sanitary Fixtures\nType of Customer: Hotel\nWho Did It: Holiday Inn San Antonio International Airport, San Antonio, Texas\nWhat They Did: In 2007, the Holiday Inn participated in the San Antonio Water System\u2019s (SAWS) WaterSaver Hotel program to retrofit bathroom fixtures. The hotel replaced 397 guest room toilets, faucet aerators, and showerheads with high-efficiency models. Additionally, the hotel implemented measures to reuse condensate from heating and cooling systems for landscape irrigation and established a rooftop herb garden.\nResult: The retrofit led to a 35% reduction in water use per occupied room, saving approximately 7 million gallons annually. The hotel also achieved estimated energy savings of 330,000 kilowatt-hours per year due to reduced hot water consumption, resulting in total annual savings of about $68,000 in water, sewer, and energy costs.",
+                "link": "https://www.epa.gov/sites/default/files/2017-01/documents/ws-commercial-casestudy-holiday-inn-sanantonio.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.436,
+                    55.3781
+                ]
+            },
+            "properties": {
+                "category": "Leak detection and maintanance",
+                "summary": "Fixing Plumbing Leaks in Arts and Recreation Facilities\nType of Customer: Arts, Entertainment, and Recreation Facilities\nWho Did It: RWG (Retailer Wholesaler Group) survey respondents with guidance from water retailers and wholesalers\nWhat They Did: Identified and repaired leaking toilets, dripping taps, and pipework issues as the primary water-saving intervention.\nResult: Significant reduction in water wastage, contributing to lower operational costs and better water efficiency.",
+                "link": "https://mosl.co.uk/document/groups-and-committees/retailer-wholesaler-group/rwg-water-efficiency-guidance/4704-rwg-non-household-customer-water-efficiency-survey-results-nov-2021/file"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.234,
+                    50.854
+                ]
+            },
+            "properties": {
+                "category": "Leak detection and maintanance",
+                "summary": "Eaton Titchfield Achieves 73% Water Reduction\nType of Customer: Manufacturing\nWho Did It: Eaton Titchfield, in collaboration with Business Stream\nWhat They Did: Identified and repaired leaks through site visits, installed new valves, and conducted step testing, primarily outside working hours to minimize disruption.\nResult: Reduced baseline water use by 73%, saving 16,000 m\u00b3 annually and cutting \u00a357,000 in water costs. Plans to remove cooling towers for further savings.",
+                "link": "https://www.business-stream.co.uk/our-services/case-studies/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1278,
+                    51.5074
+                ]
+            },
+            "properties": {
+                "category": "Leak detection and maintanance",
+                "summary": "Continuous Flow Fix Targeting\nType of Customer: Businesses with persistent flow issues (e.g., hospitality, retail, offices).\nWho Did It: Thames Water\nWhat They Did: Used smart meter data to identify and fix continuous water flows, such as leaking WCs or uncontrolled urinals, targeting business customers with significant leakage\nResult: Delivered a 4.5 Ml/day reduction in non-household water demand.",
+                "link": "https://www.thameswater.co.uk/media-library/home/about-us/regulation/our-five-year-plan/pr24-2023/wrmp-demand-reduction.pdf "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.5216,
+                    51.2802
+                ]
+            },
+            "properties": {
+                "category": "Water audits & retrofitting and fixture upgrades",
+                "summary": "Water Efficiency Retrofits in Social Housing\nType of Customer: Social Housing\nWho Did It: A partnership between a local authority and a housing association in the South East of England\nWhat They Did: The partnership conducted water efficiency retrofits across a portfolio of social housing properties. Measures included installing water-efficient fixtures such as low-flow showerheads and dual-flush toilets, as well as implementing resident education programs to promote water-saving behaviors.\nResult: The initiative led to a significant reduction in water consumption across the retrofitted properties, resulting in lower utility bills for residents and decreased demand on local water resources.",
+                "link": "https://database.waterwise.org.uk/wp-content/uploads/2019/09/SWSE-LAHA-Toolkit-Final-1.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.436,
+                    55.3781
+                ]
+            },
+            "properties": {
+                "category": "Water audits & retrofitting and fixture upgrades",
+                "summary": "Water Efficiency in Restaurants\nType of Customer: Restaurants and Food Service Establishments\nWho Did it: UK Water Partnership and local water utilities \nWhat They Did: Replaced pre-rinse spray valves with high-efficiency models, installed low-flow faucets and toilets, and trained staff on water-saving practices in kitchen operations.\nResult: Decreased water usage significantly, resulting in cost savings on water and energy bills. Enhanced operational efficiency and demonstrated commitment to environmental responsibility, attracting eco-conscious customers.\n",
+                "link": "https://mosl.co.uk/document/market-improvement/strategic-metering-programme/key-documents-smr/strategic-programmes/7997-strategic-panel-national-metering-strategy-for-the-nhh-market-1/file#:~:text=Dear%20Chief%20Executive%2C,of%20Wholesalers'%20smart%20metering%20plans."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.436,
+                    55.3781
+                ]
+            },
+            "properties": {
+                "category": "Water audits & retrofitting and fixture upgrades",
+                "summary": "Water Efficiency in Educational Facilities\nType of Customer: Educational Institutions (Schools, Colleges, Universities)\nWho Did It:EPA WaterSense Program\nWhat They Did: Implemented water-saving measures such as installing WaterSense-labeled fixtures (e.g., toilets, faucets, urinals), repairing leaks promptly, and educating staff and students on water conservation practices in collaboration with local utilities and facility managers.\nResult: Achieved significant reductions in water usage, leading to cost savings and promoting a culture of sustainability within the institution. For instance, schools reported up to 30% reductions in water consumption.",
+                "link": "https://mosl.co.uk/document/market-improvement/strategic-metering-programme/key-documents-smr/strategic-programmes/7997-strategic-panel-national-metering-strategy-for-the-nhh-market-1/file#:~:text=Dear%20Chief%20Executive%2C,of%20Wholesalers'%20smart%20metering%20plans."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.9211,
+                    -31.2532
+                ]
+            },
+            "properties": {
+                "category": "Water audits & retrofitting and fixture upgrades",
+                "summary": "Water Efficiency Improvements at a Manufacturing Facility in New South Wales\nType of Customer: Manufacturing Facility\nWho Did It: A manufacturing company in New South Wales, Australia\nWhat They Did: The company conducted a comprehensive water audit to identify areas of excessive water use and potential savings. They implemented several measures, including installing water-efficient fixtures, recycling process water, and improving leak detection and repair protocols.\nResult: The initiatives led to a significant reduction in water consumption, resulting in cost savings and a decreased environmental footprint.",
+                "link": "https://www.wateronline.com/solution/drinking-water-treatment"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4617,
+                    50.928
+                ]
+            },
+            "properties": {
+                "category": "Water audits & retrofitting and fixture upgrades",
+                "summary": "Water Efficiency and Neutrality in West Sussex Development\nType of Customer: New Housing Developments\nWho Did It: Partnership between Southern Water, Local Planning Authorities in West Sussex\nWhat They Did: Implemented water-neutral planning policies for new housing developments, including retrofitting older properties with water-efficient fixtures and offsetting additional water demand from new builds.\nResult: Achieved water neutrality for the developments, reducing overall water demand and promoting sustainable resource management.",
+                "link": "https://database.waterwise.org.uk/knowledge-base/a-review-of-water-neutrality-in-the-uk-2021"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.6155,
+                    34.0234
+                ]
+            },
+            "properties": {
+                "category": "Water audits & retrofitting and fixture upgrades",
+                "summary": "University Saves Water With Showerhead Upgrades\nType of Customer: University\nWho Did It: Kennesaw State University (KSU), Kennesaw, Georgia\nWhat They Did: In partnership with Cobb County Water System, KSU replaced 3,600 showerheads in dormitories and athletic facilities with WaterSense-labeled models. A pilot program ensured student satisfaction before full implementation.\nResult: Saved more than 650,000 gallons of water annually, reducing utility costs and promoting sustainability on campus.",
+                "link": "https://www.epa.gov/sites/default/files/2017-01/documents/ws-commercial-casestudy-cobb-county.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.2518,
+                    55.8642
+                ]
+            },
+            "properties": {
+                "category": "Water audits & retrofitting and fixture upgrades",
+                "summary": "University of Glasgow Saves Over \u00a36,000 Per Year in Water Costs\nType of Customer: Higher Education Institution\nWho Did It: University of Glasgow, in collaboration with Business Stream\nWhat They Did: Following a successful bid, the University secured funding to install recirculating chillers in its chemistry labs. These high-efficiency cooling systems do not require water to operate, replacing evaporation condensers that consumed significant volumes of water.\nResult: The University reduced water consumption significantly, leading to annual savings of over \u00a36,000 in water costs. Additionally, carbon emissions were reduced by 1,540 kg CO2e.",
+                "link": "https://www.business-stream.co.uk/our-services/case-studies/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2437,
+                    34.0522
+                ]
+            },
+            "properties": {
+                "category": "Water audits & retrofitting and fixture upgrades",
+                "summary": "University Enhances Kitchen Water Efficiency\nType of Customer: University\nWho Did It: Loyola Marymount University, Los Angeles, California\nWhat They Did: Retrofitted commercial kitchens by installing high-efficiency faucet aerators and pre-rinse spray valves, replaced industrial dishwashers with ENERGY STAR\u00ae qualified models, and substituted garbage disposals with food pulpers to reduce water use.\nResult: Saved over 4.7 million gallons of water and more than $50,000 in water and sewer costs annually. Earned a four-star Green Restaurant Association certification for its main dining hall.\n\nDate of the Study: September 2014",
+                "link": "https://www.epa.gov/sites/default/files/2017-01/documents/ws-commercial-casestudy-loyola-marymount-university_0.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1278,
+                    51.5074
+                ]
+            },
+            "properties": {
+                "category": "Water audits & retrofitting and fixture upgrades",
+                "summary": "Smarter Business Visits (SBVs)\nType of Customer: Businesses with high water consumption or wastage issues.\nWho Did It: Thames Water\nWhat They Did: Conducted 8,903 on-site visits to businesses to install water-saving devices, repair leaks, and optimize usage (e.g., urinal controls). \nBusinesses with high water consumption or wastage issues.\nResult: Achieved 23.4 Ml/day reduction in water usage",
+                "link": "https://www.thameswater.co.uk/media-library/home/about-us/regulation/our-five-year-plan/pr24-2023/wrmp-demand-reduction.pdf "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.436,
+                    55.3781
+                ]
+            },
+            "properties": {
+                "category": "Water audits & retrofitting and fixture upgrades",
+                "summary": "Retrofitting Public Buildings for Water Efficiency\nType of Customer: Public Sector (Schools and Offices)\nWho Did It: Thames Water in partnership with Local Authorities\nWhat They Did: Retrofitted public sector buildings with low-flow fixtures, water-efficient toilets, and smart water meters. Delivered educational campaigns to staff and students.\nResult: Water consumption reduced by approximately 30%, with measurable cost savings and heightened awareness of water efficiency practices.",
+                "link": "https://database.waterwise.org.uk/knowledge-base/a-review-of-water-neutrality-in-the-uk-2021/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.928,
+                    50.928
+                ]
+            },
+            "properties": {
+                "category": "Water audits & retrofitting and fixture upgrades",
+                "summary": "Retrofitting for Water Efficiency: A Hotel Case Study\nType of Customer: Hospitality (Hotel)\nWho Did It: The Lodge at Winchelsea, in collaboration with Chandlers Building Supplies, Southern Water, and the University of Brighton\u2019s Water Efficiency Lab\nWhat They Did: The project involved retrofitting water-efficient devices in guest bathrooms, including low-flow showerheads, dual-flush toilets, and aerated taps. Additional measures included staff training to promote water-saving practices and monitoring water consumption using data logging.\nResult: Reduced water use by approximately 30%, saving around 1,000 cubic meters of water annually. Operational savings were estimated at over \u00a32,500 per year, with a return on investment achieved within 2 years.",
+                "link": "https://cris.brighton.ac.uk/ws/portalfiles/portal/349290/WATEFCON2014Proceedings.2.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9375,
+                    -30.5595
+                ]
+            },
+            "properties": {
+                "category": "Water audits & retrofitting and fixture upgrades",
+                "summary": "Retrofit Initiatives South Africa\nType of Customer: Public and residential buildings\nWho Did It: Various South African municipalities\nWhat They Did: Replaced inefficient fixtures like showerheads and toilets with water-saving devices.\nResult: Reduced water consumption in retrofitted buildings and improved overall efficiency.",
+                "link": "https://www.dws.gov.za/Projects/WUE/Documents/Compendium%20of%20WCWDM%20Case%20Studies%20-%20Final%20Document.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.436,
+                    55.3781
+                ]
+            },
+            "properties": {
+                "category": "Water audits & retrofitting and fixture upgrades",
+                "summary": "Retail Sector Water Management\nType of Customer: Retail Stores and Shopping Centers\nWho Did It: Facilitated by the Retail Water Efficiency Taskforce, with support from MOSL and local water utilities.\nWhat They Did: Conducted water audits, upgraded to water-efficient fixtures, and implemented staff training programs on water conservation practices.\nResult: Reduced water consumption by approximately 30%, leading to lower utility bills and an improved sustainability profile.",
+                "link": "https://database.waterwise.org.uk/wp-content/uploads/2024/05/WES-Progress-Report-May-2024-web-final.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.074,
+                    40.3978
+                ]
+            },
+            "properties": {
+                "category": "Water audits & retrofitting and fixture upgrades",
+                "summary": "Residential Community Reduces Outdoor Water Use\nType of Customer: Residential Community\nWho Did It: Harvest Gold Village, Loveland, Colorado\nWhat They Did: Partnered with a certified irrigation professional to conduct an irrigation audit, replaced nearly 600 sprinkler heads with WaterSense-labeled spray sprinkler bodies, installed high-efficiency nozzles, added 10 WaterSense-labeled weather-based irrigation controllers, adjusted irrigation schedules, and repaired system leaks.\n\nResult: Saved over 4.4 million gallons of water and more than $22,500 in water bills in the first year.",
+                "link": "https://www.epa.gov/sites/default/files/2021-06/documents/ws-commercial-outdoor-casestudy-harvest-gold-case-study.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.436,
+                    55.3781
+                ]
+            },
+            "properties": {
+                "category": "Water audits & retrofitting and fixture upgrades",
+                "summary": "Racecourse Realizes Substantial Water Cost Reductions\nType of Customer: Entertainment Venue\nWho Did It: ConservAqua\nWhat They Did: Performed a comprehensive site audit and review of recent water charges. Identified potential savings through bill validation, tariff amendments, and water efficiency measures. Proposed continuous monitoring using data loggers and explored alternative irrigation sources.\nResult: Obtained a refund of \u00a380,000 for historical leaks. Consolidated and corrected accounts, leading to a 10% reduction in ongoing charges and annual savings of \u00a330,000",
+                "link": "https://conservaqua.co.uk/case-studies/ "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9007,
+                    47.0379
+                ]
+            },
+            "properties": {
+                "category": "Water audits & retrofitting and fixture upgrades",
+                "summary": "Providence St. Peter Hospital, Olympia, Washington\nType of Customer: Healthcare Facility\nWho Did It: Providence St. Peter Hospital\nWhat They Did: To address rising water rates, the hospital installed water-efficient laboratory and medical equipment, including low-flow faucets, showerheads, and toilets.   \nResult: Achieved significant reductions in water usage and operating costs. Enhanced environmental sustainability by conserving water resources.",
+                "link": "https://www.epa.gov/sites/default/files/2017-03/documents/ws-cases-in-water-conservation.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.3232,
+                    51.2538
+                ]
+            },
+            "properties": {
+                "category": "Water audits & retrofitting and fixture upgrades",
+                "summary": "Longo\u2019s Multi-Facility Water Efficiency Retrofits\nType of Customer: Grocery Retail Chain\nWho Did It: Longo\u2019s, Ontario, Canada\nWhat They Did: Conducted water audits across multiple store locations, identifying key areas for improvement. Implemented measures such as installing faucet aerators, upgrading to low-flow spray nozzles, and replacing older toilets and urinals with more water-efficient models.   \nResult: Achieved significant reductions in water consumption across the retrofitted stores, leading to cost savings and enhanced sustainability.",
+                "link": "https://partnersinprojectgreen.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.436,
+                    55.3781
+                ]
+            },
+            "properties": {
+                "category": "Water audits & retrofitting and fixture upgrades",
+                "summary": "Installing Water-Efficient Appliances in Hotels\nType of Customer: Accommodation and Food Service Sector (e.g., Hotels)\nWho Did It: Water retailers under the RWG initiative\nWhat They Did: Retrofitted appliances with water-saving devices, such as aerated taps, low-flush toilets, and efficient dishwashers.\nResult: Improved water efficiency by reducing consumption for essential services, enabling cost savings and sustainability efforts.",
+                "link": "https://mosl.co.uk/document/groups-and-committees/retailer-wholesaler-group/rwg-water-efficiency-guidance/4704-rwg-non-household-customer-water-efficiency-survey-results-nov-2021/file"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9375,
+                    -30.5595
+                ]
+            },
+            "properties": {
+                "category": "Water audits & retrofitting and fixture upgrades",
+                "summary": "Industrial Water Use Audits\nType of Customer: Industrial facilities\nWho Did It: Various South African municipalities\nWhat They Did: Conducted audits to identify and implement water-saving opportunities.\nResult: Reduced industrial water consumption significantly.",
+                "link": "https://www.dws.gov.za/Projects/WUE/Documents/Compendium%20of%20WCWDM%20Case%20Studies%20-%20Final%20Document.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9552,
+                    37.3541
+                ]
+            },
+            "properties": {
+                "category": "Water audits & retrofitting and fixture upgrades",
+                "summary": "Golf Course Uses Drone Technology to Reduce Water Use\nType of Customer: Golf Course\nWho Did It: La Rinconada Country Club, Santa Clara Valley, California\nWhat They Did: Conducted regular landscape water audits, replaced unused turf with native plants, and utilized a drone to survey the landscape and optimize daily watering needs.\nResult: Reduced peak water use by 54 million gallons, saving approximately $160,000 per year.",
+                "link": "https://www.epa.gov/sites/default/files/2019-07/documents/ws-case-studies-la-rinconada_drone.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -127.6476,
+                    53.7267
+                ]
+            },
+            "properties": {
+                "category": "Water audits & retrofitting and fixture upgrades",
+                "summary": "Case Study: ECOTrek \u2013 UBC\u2019s Water Efficiency Retrofit\nType of Customer: University Campus\nWho Did It: University of British Columbia (UBC)\nWhat They Did: UBC\u2019s ECOTrek initiative involved updating toilets, urinals, basins, and water-cooled equipment across the campus to improve water efficiency.\nResult: Water consumption was reduced by 35% per square meter,",
+                "link": "https://energy.ubc.ca/projects/energy-conservation/ecotrek/#:~:text=Completed%20between%202001%20and%202008%2C%20ECOTrek%20involved,to%20launch%2C%20UBC's%20utility%20costs%20had%20doubled"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6504,
+                    35.0844
+                ]
+            },
+            "properties": {
+                "category": "Water audits & retrofitting and fixture upgrades",
+                "summary": "Albuquerque Apartments Realize Savings With Rebate and Retrofits\nType of Customer: Multifamily Residential Complex\nWho Did It: La Paloma Apartments, Albuquerque, New Mexico\nWhat They Did: Collaborated with the Albuquerque Bernalillo County Water Utility Authority (ABCWUA) to conduct water audits, upgrade indoor plumbing fixtures to WaterSense labeled models, and retrofit the irrigation system with high-efficiency components, including weather-based controllers and pressure-regulating valves.\nResult: Saved over 5 million gallons of water and approximately $20,000 in water bills within the first year; project costs were expected to be recouped within two years.\n\nDate of the Study: March 2021",
+                "link": "https://www.epa.gov/sites/default/files/2021-03/documents/ws-outdoor-la-paloma-case-study.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.436,
+                    55.3781
+                ]
+            },
+            "properties": {
+                "category": "Metering",
+                "summary": "Waterscan on behalf of Self-Supply community\nType of Customer: Large estates and facilities.\nWho Did It: Waterscan\nWhat They Did: Managed water supply for large estates using self-supply, enhancing data transparency and efficiency through regular meter readings and active water management.\nResult: Reduced long unread meters to 1.7% and increased customer engagement with water efficiency practices.",
+                "link": "https://mosl.co.uk/documents-publications/4363-the-water-report-metering-special-report-sept-2021/file"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.436,
+                    55.3781
+                ]
+            },
+            "properties": {
+                "category": "Metering",
+                "summary": "Water Efficiency in the Hospitality Sector\nType of Customer: Hotels and Hospitality Businesses\nWho Did It: Waterwise in collaboration with regional water companies (e.g., Thames Water) and industry associations.\nWhat They Did: Implemented water-saving measures, such as low-flow fixtures, linen and towel reuse programs, and smart metering to monitor water usage.\nResult: Achieved significant reductions in water consumption, leading to cost savings and enhanced environmental credentials, appealing to eco-conscious guests.",
+                "link": "https://database.waterwise.org.uk/wp-content/uploads/2024/05/WES-Progress-Report-May-2024-web-final.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.436,
+                    55.3781
+                ]
+            },
+            "properties": {
+                "category": "Metering",
+                "summary": "Various Non-Household Sectors\nWho Did It: MOSL and Wholesalers (part of the Strategic Panel initiatives)\nWhat They Did: Installed smart meters to provide granular consumption data, enabling targeted interventions for water efficiency and leak detection.\nResult: Improved ability to monitor and reduce water consumption; supports achieving the Defra target of a 9% reduction in non-household water use",
+                "link": "https://mosl.co.uk/document/groups-and-committees/retailer-wholesaler-group/5626-options-for-promoting-water-efficiency-in-the-non-household-market-recommendations-from-the-retailer-wholesaler-group-water-efficiency-subgroup/file"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.436,
+                    55.3781
+                ]
+            },
+            "properties": {
+                "category": "Metering",
+                "summary": "This initiative aims to develop a water use dashboard to help customers understand their consumption patterns and enable water companies to target conservation efforts effectively. The project analyzes water use by business type and explores methods to identify high users within sectors within the UK \t\nAgriculture and horticulture\nChemical manufacture\nFood, beverage, and tobacco manufacture\nHospitality and catering\nEducation\nHuman healthcare activities",
+                "link": "https://lida.leeds.ac.uk/research-projects/non-household-water-use-benchmarking/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1278,
+                    51.5074
+                ]
+            },
+            "properties": {
+                "category": "Metering",
+                "summary": "Thames Water Smart Metering Insights\nType of Customer: Non-household customers\nWho Did It: Thames Water\nWhat They Did: Rolled out over 650,000 smart meters, used high-resolution data to identify high water users and leaks, and supported customers with water-saving visits.\nResult: Household usage reductions of 12-17%, with an additional 10% savings from water-saving visits. Identified 25% continuous flow (possible leaks) in non-household water supplied.",
+                "link": "https://database.waterwise.org.uk/wp-content/uploads/2022/09/J37880-Waterwise_Water_Efficiency_Strategy_Inners_Landscape_WEB.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1278,
+                    51.5074
+                ]
+            },
+            "properties": {
+                "category": "Metering",
+                "summary": "Strategic Metering Review\nType of Customer: Large-scale non-household users, including industries and schools.\nWho Did It: Thames Water \nWhat They Did: Implemented Advanced Metering Infrastructure (AMI) to enable remote reading and provide granular water usage data to non-household customers.\nResult: Improved leak detection, reduced water wastage, and supported customers in meeting water efficiency targets.",
+                "link": "https://mosl.co.uk/documents-publications/4363-the-water-report-metering-special-report-sept-2021/file"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0431,
+                    33.9931
+                ]
+            },
+            "properties": {
+                "category": "Metering",
+                "summary": "South Mesa Water Co. \u2013 Implementing Automated Meter Reading for Water Efficiency\nType of Customer: Water Utility Provider\nWho Did It: South Mesa Water Co. in partnership with Mueller Systems\nWhat They Did: Deployed the Hot Rod\u2122 Automated Meter Reading (AMR) system to streamline meter readings and enhance operational efficiency. The system includes the Hot Rod\u2122 Radio Transmitter Unit, Street Machine\u2122 Mobile Data Collector, and EZ Reader\u2122 Software.\nResult: Reduced monthly meter reading time from six days with two personnel to less than one day with one operator, Improved customer service by providing access to detailed consumption data and six months of usage history. Identified potential leaks, contributing to better water conservation and timely repairs.",
+                "link": " https://www.muellerwaterproducts.com/sites/default/files/SouthMesaCaseStudy.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1278,
+                    51.5074
+                ]
+            },
+            "properties": {
+                "category": "Metering",
+                "summary": "Non-Household Progressive Smart Update Programme (NHH PSUP)\nType of Customer: All non-household sectors, including large businesses and SMEs.\nWhat They Did: Accelerated smart meter rollout for businesses, replacing basic meters with advanced ones for 109,000 properties. Enabled detailed hourly consumption data for better monitoring.\nWho Did It: Thames Water\nResult: Achieved 2.5 Ml/day leakage reduction and 3.0 Ml/day usage reduction. Enhanced ability for businesses to monitor and reduce water use.",
+                "link": "https://www.thameswater.co.uk/media-library/home/about-us/regulation/our-five-year-plan/pr24-2023/wrmp-demand-reduction.pdf "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.407,
+                    52.244
+                ]
+            },
+            "properties": {
+                "category": "Metering",
+                "summary": "Newmarket Smart Metering Pilot\nType of Customer: Urban businesses and households in a water-scarce region.\nWho Did It: Anglian Water \nWhat They Did: Conducted a pilot program to install smart meters and track water consumption trends in a water-stressed area.\nResult: Achieved an 8% reduction in water consumption over 12 months, demonstrating the effectiveness of data-driven interventions.",
+                "link": "https://mosl.co.uk/documents-publications/4363-the-water-report-metering-special-report-sept-2021/file"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9375,
+                    -30.5595
+                ]
+            },
+            "properties": {
+                "category": "Metering",
+                "summary": "Metering and Billing Improvements\nType of Customer: Municipal residents and businesses\nWho Did It: Various South African municipalities\nWhat They Did: Upgraded meters and billing systems to reduce non-revenue water and encourage efficient usage.\nResult: Improved water accountability and reduced losses.",
+                "link": "https://www.dws.gov.za/Projects/WUE/Documents/Compendium%20of%20WCWDM%20Case%20Studies%20-%20Final%20Document.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2405,
+                    52.5695
+                ]
+            },
+            "properties": {
+                "category": "Metering",
+                "summary": "Maximum Daily Demand Tariff\nType of Customer: High water-consuming businesses (e.g., manufacturing and industrial users).\nWho Did It: Anglian Water \nWhat They Did: Included a logger as standard for high-consuming non-household customers to track and manage peak water usage.\nResult: Helped manage daily demand peaks and increased customer awareness of water consumption, enabling proactive management of water usage.",
+                "link": "https://mosl.co.uk/documents-publications/4363-the-water-report-metering-special-report-sept-2021/file"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.436,
+                    55.3781
+                ]
+            },
+            "properties": {
+                "category": "Metering",
+                "summary": "Knight Frank\u2019s Water Cost Savings\nType of Customer: Property Management\nWho Did It: Knight Frank, assisted by Business Stream\nWhat They Did: Business Stream provided an emergency response and installed automated meter readers at Knight Frank\u2019s Renfrew site to monitor water usage and identify potential leaks.\n\nResult: The intervention saved Knight Frank from unnecessary water costs by promptly detecting and addressing leaks",
+                "link": "https://www.business-stream.co.uk/our-services/case-studies/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4617,
+                    50.928
+                ]
+            },
+            "properties": {
+                "category": "Metering",
+                "summary": "Innovative Water Demand Management in Sussex Coast Area\nType of Customer: Mixed Residential and Commercial Developments\nWho Did It: South East Water in collaboration with local councils\nWhat They Did: Introduced advanced metering systems, smart water usage data analytics, and incentivized water-saving behaviors among customers.\nResult: Significant reduction in water consumption across participating developments; metrics indicate over 20% savings compared to baseline consumption.",
+                "link": "https://database.waterwise.org.uk/knowledge-base/a-review-of-water-neutrality-in-the-uk-2021"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9872,
+                    50.715
+                ]
+            },
+            "properties": {
+                "category": "Metering",
+                "summary": "Haven Hotel Implements Water Efficiency Measures\nType of Customer: Hospitality\nWho Did It: Haven Hotel, in collaboration with Water2Business\nWhat They Did: Conducted a comprehensive water audit, including the installation of a data logger on the hotel\u2019s supply meter to monitor consumption and flow patterns continuously. Identified areas of high usage and potential leaks, and provided water-saving devices for guest rooms.\nResult: Identified potential savings of over \u00a320,000 by addressing leaks, switching tariffs, and implementing water-saving measures. The hotel now actively monitors water consumption and has improved water usage practices.",
+                "link": "https://www.water2business.co.uk/about-us/our-services/case-studies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.7129,
+                    37.0902
+                ]
+            },
+            "properties": {
+                "category": "Metering",
+                "summary": "Federal Agency Implements Water Management Strategy\nType of Customer: Federal Research Laboratories\nWho Did It: U.S. Environmental Protection Agency (EPA)\nWhat They Did: Conducted water use assessments at 29 major laboratories, established annual water reduction targets, and implemented efficiency projects such as installing low-flow fixtures, auditing irrigation systems, optimizing cooling tower operations, collecting and reusing air handler condensate, eliminating single-pass cooling, and controlling tempering water for steam sterilizers.\nResult: Reduced water use intensity by 18.7% between 2007 and 2010, saving 23.4 million gallons and approximately $200,000 in water and sewer costs over three years.",
+                "link": "https://www.epa.gov/sites/default/files/2017-01/documents/ws-commercial-casestudy-epa-labs.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.4125,
+                    23.8103
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Landscaping, agriculture and outdoors",
+                "summary": "Waterwise Landscaping for Outdoor Water Savings\nType of Customer: Commercial Buildings\nWho Did It: Researchers in Dhaka, Bangladesh, and other hot climates\nWhat They Did: Used drought-tolerant native plants and efficient irrigation methods like drip irrigation.\nResult: Reduced outdoor water use by 46%\u201364% compared to traditional landscaping",
+                "link": "https://www.mdpi.com/2073-4441/16/17/2396"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6504,
+                    35.0844
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Landscaping, agriculture and outdoors",
+                "summary": "Outdoor water use audit ",
+                "link": "https://www.epa.gov/sites/default/files/2021-03/documents/ws-outdoor-la-paloma-case-study.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.5943,
+                    40.6956
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Landscaping, agriculture and outdoors",
+                "summary": "Outdoor water use audit ",
+                "link": "https://www.epa.gov/sites/default/files/2021-06/documents/ws-commercial-outdoor-casestudy-harvest-gold-case-study.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.9018,
+                    31.9686
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Landscaping, agriculture and outdoors",
+                "summary": "Outdoor Water Savings at Texas Mall\nType of Customer: Shopping Mall\nWho Did It: The Village at Stone Oak, San Antonio, Texas\nWhat They Did: Replaced turf with xeric plants, upgraded irrigation to drip systems, and added Smart Water Management.\nResult: 60% water use reduction, saving 14M gallons and $84,000 annually.",
+                "link": "https://www.epa.gov/sites/default/files/2017-05/documents/ws-casestudy-villageatstoneoak-508.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.0929,
+                    35.0078
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Landscaping, agriculture and outdoors",
+                "summary": "Oklahoma City Enhances Median Irrigation Efficiency\nType of Customer: Municipal Government\nWho Did It: Oklahoma City Utilities Department, Oklahoma City, Oklahoma\nWhat They Did: Partnered with OKC Beautiful and Urban Lawn and Landscape to retrofit three median irrigation systems. Installed WaterSense-labeled irrigation controllers and pressure-regulating sprinkler bodies to address overwatering and runoff issues.\nResult: Achieved a 67% reduction in water use, saving 1.2 million gallons and over $5,000 annually between 2016 and 2019.",
+                "link": "https://www.epa.gov/sites/default/files/2020-03/documents/ws-commercial-casestudy-oklahomacity-medians.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.6989,
+                    33.0198
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Landscaping, agriculture and outdoors",
+                "summary": "Office Complex Reduces Outdoor Water Use\nType of Customer: Office Park\nWho Did It: Granite Park Office Complex, Plano, Texas\nWhat They Did: Upgraded to weather-based irrigation controllers, replaced broken sprinkler heads, installed pressure-regulating nozzles, and added rain/freeze sensors.\nResult: Reduced irrigation water use by 40%, saving 12.5 million gallons and $47,000 annually. Achieved LEED Gold certification credits.",
+                "link": "https://www.epa.gov/sites/default/files/2017-05/documents/ws-commercial-casestudy-heb-commercial-carwash-508.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8516,
+                    31.0461
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Landscaping, agriculture and outdoors",
+                "summary": "Israel\u2019s National Drip Irrigation\nType of Customer: Agricultural sector\nWho Did It: Israeli government\nWhat They did: Israel implemented a nationwide adoption of drip irrigation technology, which delivers water directly to the plant roots through a network of valves, pipes, and emitters. This method minimizes water loss due to evaporation and runoff, ensuring efficient water use in agriculture\n\nResult: The adoption of drip irrigation led to a significant reduction in water usage in agriculture, enhancing crop yields and allowing Israel to maximize its limited water resources.",
+                "link": "https://waterconservationsummit.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0473,
+                    -26.2041
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Landscaping, agriculture and outdoors",
+                "summary": "Agricultural Water Management\nType of Customer: Agricultural sector\nWho Did It: Local municipalities in collaboration with farmers\nWhat They Did: Introduced efficient irrigation techniques and scheduling.\nResult: Reduced water usage in agriculture.",
+                "link": "https://www.dws.gov.za/Projects/WUE/Documents/Compendium%20of%20WCWDM%20Case%20Studies%20-%20Final%20Document.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6435,
+                    60.1282
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Landscaping, agriculture and outdoors",
+                "summary": "Additionally, the hotel implemented measures to reuse condensate from heating and cooling systems for landscape irrigation and established a rooftop herb garden.",
+                "link": "https://www.epa.gov/sites/default/files/2017-01/documents/ws-commercial-casestudy-holiday-inn-sanantonio.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6435,
+                    60.1282
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Storm water ",
+                "summary": "Stormwater Ponds in Malm\u00f6, Sweden\nType of Customer: Urban residential and public spaces\nWho Did It: Architectural firm White Arkitekte\nWhat They Did: Malm\u00f6 implemented stormwater ponds in the neighborhood of Augustenborg to manage excess rainwater. These ponds are designed to capture, store, and naturally filter stormwater, reducing urban flooding while enhancing local biodiversity.\nResult: The initiative has successfully minimized flood risks during heavy rainfall and transformed urban spaces into green, biodiverse areas that serve both functional and recreational purposes.",
+                "link": "https://www.wired.com/story/heres-what-the-sustainable-cities-of-tomorrow-could-look-like/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2437,
+                    34.0522
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Storm water ",
+                "summary": "Los Angeles County stormwater-sewer diversion projects\nType of Customer: Urban Water Management Authority\nWho Did It: Los Angeles County Sanitation Districts (LACSD)\nWhat They Did: Implemented stormwater-sewer diversion projects to divert stormwater into sanitary sewers at controlled rates. This approach increases the supply of non-potable recycled water for applications such as agriculture, irrigation, and seawater intrusion barriers, as well as indirect potable water reuse\nResult:Enhanced the reliability of recycled water supplies.",
+                "link": "https://www.epa.gov/waterreuse/case-studies-demonstrate-benefits-water-reuse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0,
+                    55.583
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Storm water ",
+                "summary": "Case Study: Green Roofs in Augustenborg, Malm\u00f6, Sweden\nWhat They Did: Implemented green roofs across several residential and public buildings as part of the EcoCity project in Malm\u00f6. These roofs were designed to manage stormwater by absorbing and retaining rainwater, reducing the strain on the city\u2019s drainage systems.\nType of Customer: Urban residential and public spaces",
+                "link": "https://mosl.co.uk/documents-publications/4363-the-water-report-metering-special-report-sept-2021/file"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.7129,
+                    37.0902
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Grey water reuse",
+                "summary": "Water Reuse in a Commercial Building\nType of Customer: Commercial Office Building\nWho Did It: A commercial property management company in the United States\nWhat They Did: The company installed a water reuse system that captures and treats greywater from sinks and showers for use in toilet flushing and landscape irrigation.\nResult: The system reduced the building\u2019s potable water use by approximately 30%, leading to substantial cost savings and contributing to the building\u2019s sustainability goals.",
+                "link": "https://www.wateronline.com/solution/drinking-water-treatment"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9375,
+                    -30.5595
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Grey water reuse",
+                "summary": "Greywater Reuse\nType of Customer: Residential and commercial properties\nWho Did It: Various South African municipalities\nWhat They Did: Implemented systems for reusing greywater for irrigation and toilet flushing.\nResult: Decreased demand for treated water.",
+                "link": "https://www.dws.gov.za/Projects/WUE/Documents/Compendium%20of%20WCWDM%20Case%20Studies%20-%20Final%20Document.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.3773,
+                    24.4539
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Grey water reuse",
+                "summary": "Greywater Reuse for Cooling Towers and Toilets\nType of Customer: Office Buildings\nWho Did It: Estidama Pearl Rating System projects in Abu Dhabi\nWhat They Did: Integrated greywater reuse systems with cooling towers and toilet flushing systems.\nResult: Reduced freshwater use for cooling towers by 53% and toilet flushing by 60%.",
+                "link": "https://www.mdpi.com/2073-4441/16/17/2396"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.436,
+                    55.3781
+                ]
+            },
+            "properties": {
+                "category": "Water reuse - Grey water reuse",
+                "summary": " Water Reuse in Commercial Buildings\nType of Customer: Commercial Buildings (Offices, Retail Centers)\nWho Did It: Johnson Controls\nWhat They Did: Installed systems to capture and treat greywater and rainwater for non-potable uses such as toilet flushing and landscape irrigation. Upgraded to water-efficient fixtures and conducted regular maintenance to prevent leaks. \nResult: Reduced reliance on municipal water supply, lowering utility bills and enhancing environmental stewardship. Some buildings achieved water savings of up to 40%.",
+                "link": "https://mosl.co.uk/document/market-improvement/strategic-metering-programme/key-documents-smr/strategic-programmes/7997-strategic-panel-national-metering-strategy-for-the-nhh-market-1/file#:~:text=Dear%20Chief%20Executive%2C,of%20Wholesalers'%20smart%20metering%20plans."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8198,
+                    1.3521
+                ]
+            },
+            "properties": {
+                "category": "Water reuse, closed loop systems and  waste water ",
+                "summary": "Singapore\u2019s Water Reclamation Initiative\nType of Customer: Municipal and industrial sectors\nWho Did It: Singapore Government\nWhat They Did: Singapore developed an advanced water reclamation process known as NEWater, which involves treating and purifying wastewater to produce high-grade reclaimed water. This reclaimed water is then supplied to industries for non-potable uses and also contributes to the public water supply.\nResult: The NEWater initiative has significantly reduced Singapore\u2019s reliance on imported water, ensuring a sustainable and resilient water supply for both industrial and municipal needs. ",
+                "link": "https://waterconservationsummit.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.2026,
+                    56.4907
+                ]
+            },
+            "properties": {
+                "category": "Water reuse, closed loop systems and  waste water ",
+                "summary": "Scottish Water\u2019s Seafield Wastewater Treatment Works Achieves Energy Self-Sufficiency\nType of Customer: Water Utility\nWho Did It: Scottish Water, operated by Veolia\nWhat They Did: Implemented a comprehensive facility management solution integrating advanced technology and sustainability initiatives. This included the use of combined heat and power (CHP) plants and an advanced digestion plant to enhance energy efficiency and waste reduction.\nResult: Achieved 108% energy self-sufficiency, 100% compliance with regulatory requirements, and a 50% reduction in chemical consumption, resulting in significant cost savings and environmental benefits.",
+                "link": "https://www.water2business.co.uk/about-us/our-services/case-studies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.1091,
+                    37.1673
+                ]
+            },
+            "properties": {
+                "category": "Water reuse, closed loop systems and  waste water ",
+                "summary": "Oswego, Kansas\nType of Customer: Municipal Water Utility\nWho Did It: City of Oswego\nWhat They Did: Reclaimed treated municipal wastewater from a lagoon treatment system to irrigate a local golf course during warmer months. This initiative reduces potable water demands and ensures a reliable water supply for the golf course, especially during drought periods.   \nResult:Provided a drought-resilient water supply for the golf course.Reduced demands on and costs for potable water supplies.",
+                "link": "https://www.epa.gov/waterreuse/case-studies-demonstrate-benefits-water-reuse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9442,
+                    40.6782
+                ]
+            },
+            "properties": {
+                "category": "Water reuse, closed loop systems and  waste water ",
+                "summary": "New York City Revitalization of the historic Domino Factory in Brooklyn\nType of Customer: Urban Redevelopment Project\nWho Did It: New York City Department of Environmental Protection (DEP)\nWhat They Did: Incorporated a non-potable water reuse system into the revitalization of the historic Domino Factory in Brooklyn. The system collects and treats wastewater from five newly constructed buildings, reusing it for toilet flushing, cooling tower makeup, and irrigation. The treatment system processes 400,000 gallons per day (approximately 1,500,000 liters per day) of wastewater.   \nResult: Reduced potable water use by up to 200,000 gallons per day (approximately 750,000 liters per day). Provided a drought-resilient water supply for non-potable uses",
+                "link": "https://www.epa.gov/waterreuse/case-studies-demonstrate-benefits-water-reuse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.388,
+                    33.749
+                ]
+            },
+            "properties": {
+                "category": "Water reuse, closed loop systems and  waste water ",
+                "summary": "Hyatt Regency Atlanta, Georgia\nType of Customer: Hotel\nWho Did It: Hyatt Regency Atlanta\nWhat They Did: Implemented a comprehensive water efficiency program focusing on mechanical systems. Replaced single-pass cooling systems with air-cooled models, optimized cooling tower operations by increasing cycles of concentration, and utilized condensate from air handling units to reduce potable water use. Additionally, installed high-efficiency restroom fixtures, reduced exterior landscaping and irrigation, and initiated a towel and linen reuse program.\nResult: Reduced water consumption by 35% between 2000 and 2013, saving approximately 36 million gallons of water in 2013 alone. Achieved annual cost savings of about $1 million in water and sewer expenses. Recognized as \u201cTop Water Saver\u201d by the Atlanta Better Buildings Challenge in July 2013.",
+                "link": "https://www.epa.gov/sites/default/files/2017-01/documents/ws-commercial-casestudy-hyatt-regency-atlanta.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.2384,
+                    30.5852
+                ]
+            },
+            "properties": {
+                "category": "Water reuse, closed loop systems and  waste water ",
+                "summary": "Expansion of the As-Samra Wastewater Treatment Plant\nType of Customer: Municipal Water Treatment Facility\nWho Did It: Millennium Challenge Corporation (MCC), Government of Jordan, Suez, Arab Bank\nWhat They Did: Expanded the As-Samra Wastewater Treatment Plant to handle increased wastewater from growing populations and industrial activities in the Zarqa Governorate. The plant now processes 70% of Jordan\u2019s wastewater, with high-quality treated effluent being used for irrigation in the Jordan Valley.\nResult: Provides 109 million cubic meters of treated water annually for irrigation. Increased the capacity of the plant to treat wastewater from 365,000 to 465,000 kiloliters per day. Contributes to improved sludge management and energy production (produces 80% of its energy from biogas and hydropower).Facilitated a reduction in the cost of water, with MCC\u2019s funding lowering capital costs and reducing tariffs for consumers.",
+                "link": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/08/making-blended-finance-work-for-water-and-sanitation_ce59dbca/5efc8950-en.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1278,
+                    51.5074
+                ]
+            },
+            "properties": {
+                "category": "Behavioral change initiatives",
+                "summary": "Type of Customer: Domestic and non-household customers\nWho Did It: Affinity Water\nWhat They Did: Launched a campaign using behavioral science and marketing to encourage water-saving behaviors, including free leak repairs and targeted advice.\nResult: Over 225,000 participants, saving 20.25 million liters of water daily.",
+                "link": "https://database.waterwise.org.uk/wp-content/uploads/2022/09/J37880-Waterwise_Water_Efficiency_Strategy_Inners_Landscape_WEB.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.6044,
+                    47.8021
+                ]
+            },
+            "properties": {
+                "category": "Behavioral change initiatives",
+                "summary": "Kalaloch Lodge, Olympic National Park, Washington\nType of Customer: Hotel\nWho Did It: Kalaloch Lodge\nWhat They Did: Implemented a comprehensive water conservation program that included guest and employee education, installation of high-efficiency fixtures, towel and linen reuse programs, and serving water only upon request.\nResult: Reduced water consumption by 40% between 2011 and 2014, saving approximately 1.4 million gallons annually and $47,000 in water and sewer costs.",
+                "link": "https://www.epa.gov/sites/default/files/2017-01/documents/ws-commercial-casestudy-kalaloch-lodge.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.436,
+                    55.3781
+                ]
+            },
+            "properties": {
+                "category": "Behavioral change initiatives",
+                "summary": "Employee Engagement for Water Conservation in Offices\nType of Customer: Professional, Scientific, and Technical Services (Office Spaces)\nWho Did It: RWG survey participants and water retailers\nWhat They Did: Launched employee engagement programs to raise awareness about water usage, encouraging behavior changes to conserve water.\nResult: Fostered a culture of conservation, leading to a noticeable decrease in daily water consumption.",
+                "link": "https://mosl.co.uk/document/groups-and-committees/retailer-wholesaler-group/rwg-water-efficiency-guidance/4704-rwg-non-household-customer-water-efficiency-survey-results-nov-2021/file"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9375,
+                    -30.5595
+                ]
+            },
+            "properties": {
+                "category": "Behavioral change initiatives",
+                "summary": "Community-Based Water Monitoring\nType of Customer: Municipal residents\nWho Did It: Various South African municipalities\nWhat They Did: Engaged communities in monitoring water usage and reporting issues like leaks and illegal connections.\nResult: Improved water conservation and accountability",
+                "link": "https://www.dws.gov.za/Projects/WUE/Documents/Compendium%20of%20WCWDM%20Case%20Studies%20-%20Final%20Document.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.436,
+                    55.3781
+                ]
+            },
+            "properties": {
+                "category": "Behavioral change initiatives",
+                "summary": "Collaborative Water Efficiency Workshops in Essex and Suffolk\nType of Customer: Domestic and Non-Household Customers\nWho Did It: Waterwise and Essex & Suffolk Water\nWhat They Did: Conducted collaborative workshops to address high water-consuming behaviors, such as lifestyle habits, leaks, and laundry/showering practices, using tailored and interactive methods.\nResult: Increased customer engagement and awareness of water efficiency. The workshops fostered better customer-company collaboration for long-term behavior changes.",
+                "link": "https://database.waterwise.org.uk/wp-content/uploads/2023/04/Waterwise-0223-IOW-Journal.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.7751,
+                    -25.2744
+                ]
+            },
+            "properties": {
+                "category": "Water efficiency labeling and standards",
+                "summary": "Australia\u2019s Water Efficiency Labeling and Standards (WELS) Scheme\nType of Customer: Commercial and residential sectors\nWho Did It:Australian Government\nWhat They Did:  Australia introduced the WELS scheme, which mandates water efficiency labeling for products such as toilets, taps, showers, and washing machines. This program guides consumers and businesses in selecting water-efficient appliances, promoting informed purchasing decisions.\nResult: The WELS scheme has contributed to substantial water savings across Australia by encouraging the use of water-efficient products, thereby reducing water consumption in both commercial and residential settings.",
+                "link": "https://waterconservationsummit.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.4936,
+                    29.4241
+                ]
+            },
+            "properties": {
+                "category": "Water and energy Integration",
+                "summary": "Laundry Day Means Big Savings for San Antonio, Texas, Hotel\nType of Customer: Hotel\nWho Did It: Westin Riverwalk Hotel, San Antonio, Texas\nWhat They Did: In 2011, the Westin Riverwalk Hotel partnered with the San Antonio Water System\u2019s (SAWS) WaterSaver Hotel program to enhance water efficiency in its laundry operations. The hotel replaced three 125-pound washers and one 55-pound washer/extractor with high-efficiency models, achieving a 45% reduction in water use. Additionally, they installed a last-rinse, first-wash reclaim system, which reuses water from the final rinse for the first wash of the next load, resulting in an additional 20% water savings.\nResult: The combined upgrades led to a 65% reduction in laundry water use, saving more than 2.2 million gallons annually. The hotel also realized approximately $20,000 in annual savings on water, sewer, and energy costs. With an initial investment of $79,000, offset by $27,000 in rebates from SAWS, the payback period for these improvements was 2.6 years.",
+                "link": "https://www.epa.gov/sites/default/files/2017-01/documents/ws-commercial-casestudy-westin-river-walk.pdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7837,
+                    52.1307
+                ]
+            },
+            "properties": {
+                "category": "Water and energy Integration",
+                "summary": "D\u0175r Cymru Welsh Water Optimizes Plant Efficiency\nType of Customer: Water Utility\nWho Did It: D\u0175r Cymru Welsh Water, in collaboration with Veolia\nWhat They Did: Conducted a comprehensive optimization program focusing on energy, water, and chemical usage. This included performance modeling, on-site trials, and continuous engagement with operational staff to identify and implement efficiency improvements.\nResult: Realized cost savings through enhanced plant optimization, leading to more efficient use of resources and improved operational performance.\n",
+                "link": "https://www.veolia.co.uk/case-studies?activity[]=41&market[]=26&market[]=21&market[]=16&sort_by=created&sort_order=DESC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.436,
+                    55.3781
+                ]
+            },
+            "properties": {
+                "category": "Consultancy",
+                "summary": "Age UK Enhances Water Efficiency\nType of Customer: Charity\nWho Did It: Age UK, supported by Water2Business\nWhat They Did: Received guidance on water-efficient practices and technologies, including a tailored presentation to raise awareness about water conservation. Implemented continuous usage monitoring to detect leaks or running water and received assistance in making meters accessible.\nResult: Improved water-use efficiency across multiple sites, leading to cost savings and enhanced sustainability. Addressed billing and site management challenges effectively with Water2Business\u2019s suppor",
+                "link": "https://www.water2business.co.uk/about-us/our-services/case-studies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.7718,
+                    7.8731
+                ]
+            },
+            "properties": {
+                "category": "Multiple initiatives / collaborative programmes",
+                "summary": "Water Efficiency in Office Buildings with Green Initiatives\nType of Customer: Office Buildings\nWho Did It: Researchers from the University of Stavanger, Norway, and Galle Face Properties Limited, Sri Lanka\nWhat They Did: Implemented efficient plumbing fixtures, rainwater harvesting systems (RWHS), greywater reuse systems (GWRS), water-efficient cooling towers, and native landscaping with optimized irrigation.\nResult: Achieved a 73% reduction in water use through RWHS, 55% savings from efficient fixtures, and 93% reduction in landscaping water needs.",
+                "link": "https://www.mdpi.com/2073-4441/16/17/2396"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.436,
+                    55.3781
+                ]
+            },
+            "properties": {
+                "category": "Multiple initiatives / collaborative programmes",
+                "summary": "Collaborative Retailer and Wholesaler Water Efficiency Programs\nType of Customer: Non-Household Businesses in Water-Stressed Areas\nWho Did It: RWG (Retailer Wholesaler Group) Water Efficiency Subgroup\nWhat They Did: Developed joint programs where retailers worked with wholesalers to implement water-saving measures, including retrofitting and behavior-change campaigns.\nResult: Increased water-saving practices among businesses, contributing to meeting national water efficiency goals.",
+                "link": "https://www.wired.com/story/heres-what-the-sustainable-cities-of-tomorrow-could-look-like/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2482,
+                    43.5448
+                ]
+            },
+            "properties": {
+                "category": "Multiple initiatives / collaborative programmes",
+                "summary": "City of Guelph\u2019s Water Smart Business Program\nType of Customer: Industrial, Commercial, and Institutional (ICI) Facilities\nWho Did It: City of Guelph\nWhat They Did: Implemented a program offering financial incentives for water conservation measures. The program includes a 50/50 cost-sharing arrangement for detailed water audits and provides incentives for implementing recommended water-saving measures.   \nResult: Achieved significant water savings across participating facilities. Reduced the need for capital investments in new water supply and wastewater infrastructure.Enhanced environmental sustainability by lowering water consumption and associated greenhouse gas emissions.",
+                "link": "https://partnersinprojectgreen.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.424,
+                    -33.9249
+                ]
+            },
+            "properties": {
+                "category": "Multiple initiatives / collaborative programmes",
+                "summary": "Cape Town\u2019s Water Conservation Response to Drought\nWhat They Did: In response to a severe drought in 2018, Cape Town, South Africa, implemented stringent water restrictions and launched aggressive conservation campaigns. The city urged residents and businesses to drastically limit daily water consumption, promoted the reuse of graywater, and encouraged the collection of rainwater.\nType of Customer: Municipal sector\nResult: These measures successfully averted the anticipated \u201cDay Zero,\u201d when the city would have run out of water. The collaborative effort between the municipality, residents, and businesses led to a significant reduction in water usage, showcasing the effectiveness of coordinated water conservation strategies.",
+                "link": "https://waterconservationsummit.com/"
+            }
+        }
+    ]
+}
