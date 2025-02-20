@@ -26,78 +26,11 @@
     </nav>
 
     <div class="container mt-4">
-        <h2>Water Saving Case Studies</h2>
-        <h3>Click on a pin to see details of each initiative</h3>
+        <h2>Locate your development site </h2>
+        <h3>Pan through the map to see what may impact your development</h3>
         <div id="map" style="height: 600px;"></div>
     </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
-    <script>
-        document.addEventListener("DOMContentLoaded", function () {
-            // Initialize the map
-            var map = L.map('map').setView([20, 0], 2); // Centered globally
-
-            // Add a base layer (OpenStreetMap)
-            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                attribution: '&copy; OpenStreetMap contributors'
-            }).addTo(map);
-
-            // Create marker cluster group
-            var markers = L.markerClusterGroup();
-
-            // Create an empty object to store category layers
-            var categoryLayers = {};
-            var bounds = L.latLngBounds(); // Create a bounds object for zoom fitting
-
-            // Load GeoJSON data
-            fetch('map_data.geojson')  // Ensure the file is in the same directory
-                .then(response => response.json())
-                .then(data => {
-                    L.geoJSON(data, {
-                        pointToLayer: function (feature, latlng) {
-                            var marker = L.marker(latlng);
-                            var props = feature.properties;
-                            var popupContent = `<strong>${props.category}</strong><br>${props.summary}<br><a href="${props.link}" target="_blank">More info</a>`;
-                            marker.bindPopup(popupContent);
-
-                            // Add marker to cluster group
-                            markers.addLayer(marker);
-
-                            // Add to category layers
-                            if (!categoryLayers[props.category]) {
-                                categoryLayers[props.category] = L.layerGroup();
-                            }
-                            categoryLayers[props.category].addLayer(marker);
-
-                            // Extend bounds to include this feature
-                            bounds.extend(latlng);
-
-                            return marker;
-                        }
-                    });
-
-                    // Add clustered markers to the map
-                    map.addLayer(markers);
-
-                    // Add all category layers to the map and layer control
-                    var overlayMaps = {};
-                    for (let category in categoryLayers) {
-                        categoryLayers[category].addTo(map);
-                        overlayMaps[category] = categoryLayers[category];
-                    }
-
-                    // Add layer control, ensuring layers appear ticked by default
-                    L.control.layers(null, overlayMaps, { collapsed: false }).addTo(map);
-
-                    // Fit map to bounds of all markers
-                    map.fitBounds(bounds, { padding: [50, 50] });
-
-                    // Set max bounds to prevent excessive zooming out
-                    map.setMaxBounds(bounds.pad(0.5));
-                })
-                .catch(error => console.error('Error loading GeoJSON:', error));
-        });
-    </script>
 </body>
 </html>
