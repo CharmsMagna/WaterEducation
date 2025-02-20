@@ -1,1 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intervention List</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">Nutrient Neutrality</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link" href="water-saving.html">Water Saving</a></li>
+                    <li class="nav-item"><a class="nav-link" href="reference-library.html">Reference Library</a></li>
+                    <li class="nav-item"><a class="nav-link" href="nutrient-map.html">Nutrient Neutrality Map</a></li>
+                    <li class="nav-item"><a class="nav-link" href="feedback.html">Feedback Form</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    
+    <div class="container mt-4">
+        <h2>Intervention List</h2>
+        <p>Filter interventions by type, category, and company.</p>
+        
+        <div class="row mb-3">
+            <div class="col-md-3">
+                <label for="filter-level1" class="form-label">Intervention Type</label>
+                <select id="filter-level1" class="form-select">
+                    <option value="">All</option>
+                </select>
+            </div>
+            <div class="col-md-3">
+                <label for="filter-level2" class="form-label">Category</label>
+                <select id="filter-level2" class="form-select">
+                    <option value="">All</option>
+                </select>
+            </div>
+            <div class="col-md-3">
+                <label for="filter-cd" class="form-label">Application Type</label>
+                <select id="filter-cd" class="form-select">
+                    <option value="">All</option>
+                </select>
+            </div>
+            <div class="col-md-3">
+                <label for="filter-company" class="form-label">Company</label>
+                <input type="text" id="filter-company" class="form-control" placeholder="Search Company">
+            </div>
+        </div>
+
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Intervention Type</th>
+                    <th>Category</th>
+                    <th>Application Type</th>
+                    <th>Company</th>
+                    <th>Website</th>
+                    <th>Offering</th>
+                </tr>
+            </thead>
+            <tbody id="intervention-list">
+                <!-- Data rows will be dynamically inserted here -->
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        // Sample Data (Replace this with real data insertion)
+        var interventions = [
+            {level1: "Leak Detection", level2: "Acoustic Leak Detection", cd: "Commercial", company: "Aquarius Spectrum", website: "https://www.aquarius-spectrum.com/", offering: "Develops fixed and mobile leak detection solutions."},
+            {level1: "Pipe Inspection", level2: "Non-Intrusive Assessment", cd: "Commercial", company: "Echologics", website: "https://www.echologics.com/", offering: "Non-invasive pipe condition assessment."}
+        ];
+
+        function populateFilters() {
+            let level1Set = new Set(), level2Set = new Set(), cdSet = new Set();
+            interventions.forEach(i => {
+                level1Set.add(i.level1);
+                level2Set.add(i.level2);
+                cdSet.add(i.cd);
+            });
+            level1Set.forEach(i => $("#filter-level1").append(`<option value="${i}">${i}</option>`));
+            level2Set.forEach(i => $("#filter-level2").append(`<option value="${i}">${i}</option>`));
+            cdSet.forEach(i => $("#filter-cd").append(`<option value="${i}">${i}</option>`));
+        }
+
+        function renderTable() {
+            let filteredData = interventions.filter(i => {
+                return (!$("#filter-level1").val() || i.level1 === $("#filter-level1").val()) &&
+                       (!$("#filter-level2").val() || i.level2 === $("#filter-level2").val()) &&
+                       (!$("#filter-cd").val() || i.cd === $("#filter-cd").val()) &&
+                       (!$("#filter-company").val() || i.company.toLowerCase().includes($("#filter-company").val().toLowerCase()));
+            });
+            let rows = filteredData.map(i => `<tr>
+                <td>${i.level1}</td>
+                <td>${i.level2}</td>
+                <td>${i.cd}</td>
+                <td>${i.company}</td>
+                <td><a href="${i.website}" target="_blank">Link</a></td>
+                <td>${i.offering}</td>
+            </tr>`).join("");
+            $("#intervention-list").html(rows);
+        }
+
+        $(document).ready(function() {
+            populateFilters();
+            renderTable();
+            $("select, #filter-company").on("change keyup", renderTable);
+        });
+    </script>
+</body>
+</html>
 
