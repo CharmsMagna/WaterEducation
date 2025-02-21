@@ -1,7 +1,7 @@
 [
     {
         "level1":"Leak Detection",
-        "level2":"Acoustic Leak Detection:",
+        "level2":"Acoustic Leak Detection",
         "details": "Uses sensitive microphones and acoustic sensors to detect sound variations caused by water escaping from pipes. Commonly used in water distribution networks and for underground pipes. Examples: correlators, ground microphones, and noise loggers.",
         "cd":"Commercial",
         "company":"Aquarius Spectrum (by Oilaxis)",
@@ -10,7 +10,7 @@
     },
     {
         "level1":"Leak Detection",
-        "level2":"Acoustic Leak Detection:",
+        "level2":"Acoustic Leak Detection",
         "details": "Uses sensitive microphones and acoustic sensors to detect sound variations caused by water escaping from pipes. Commonly used in water distribution networks and for underground pipes. Examples: correlators, ground microphones, and noise loggers.",
         "cd":"Commercial",
         "company":"BurntPlanet",
@@ -19,7 +19,7 @@
     },
         {
         "level1":"Leak Detection",
-        "level2":"Acoustic Leak Detection:",
+        "level2":"Acoustic Leak Detection",
         "details": "Uses sensitive microphones and acoustic sensors to detect sound variations caused by water escaping from pipes. Commonly used in water distribution networks and for underground pipes. Examples: correlators, ground microphones, and noise loggers.",
         "cd":"Commercial",
         "company":"Echologics (a Mueller brand)",
@@ -28,7 +28,7 @@
     },
     {
         "level1":"Leak Detection",
-        "level2":"Acoustic Leak Detection:",
+        "level2":"Acoustic Leak Detection",
         "details": "Uses sensitive microphones and acoustic sensors to detect sound variations caused by water escaping from pipes. Commonly used in water distribution networks and for underground pipes. Examples: correlators, ground microphones, and noise loggers.",
         "cd":"Commercial",
         "company":"FIDO",
@@ -37,7 +37,7 @@
     },
         {
         "level1":"Leak Detection",
-        "level2":"Acoustic Leak Detection:",
+        "level2":"Acoustic Leak Detection",
         "details": "Uses sensitive microphones and acoustic sensors to detect sound variations caused by water escaping from pipes. Commonly used in water distribution networks and for underground pipes. Examples: correlators, ground microphones, and noise loggers.",
         "cd":"Commercial",
         "company":"Gütermann",
@@ -46,7 +46,7 @@
     },
         {
         "level1":"Leak Detection",
-        "level2":"Acoustic Leak Detection:",
+        "level2":"Acoustic Leak Detection",
         "details": "Uses sensitive microphones and acoustic sensors to detect sound variations caused by water escaping from pipes. Commonly used in water distribution networks and for underground pipes. Examples: correlators, ground microphones, and noise loggers.",
         "cd":"Commercial",
         "company":"HWM",
@@ -55,7 +55,7 @@
     },
         {
         "level1":"Leak Detection",
-        "level2":"Acoustic Leak Detection:",
+        "level2":"Acoustic Leak Detection",
         "details": "Uses sensitive microphones and acoustic sensors to detect sound variations caused by water escaping from pipes. Commonly used in water distribution networks and for underground pipes. Examples: correlators, ground microphones, and noise loggers.",
         "cd":"Commercial",
         "company":"Primayer (Aqua Technology Solutions)",
@@ -64,7 +64,7 @@
     },
         {
         "level1":"Leak Detection",
-        "level2":"Acoustic Leak Detection:",
+        "level2":"Acoustic Leak Detection",
         "details": "Uses sensitive microphones and acoustic sensors to detect sound variations caused by water escaping from pipes. Commonly used in water distribution networks and for underground pipes. Examples: correlators, ground microphones, and noise loggers.",
         "cd":"Commercial",
         "company":"SebaKMT (by Megger)",
@@ -73,7 +73,7 @@
     },
         {
         "level1":"Leak Detection",
-        "level2":"Acoustic Leak Detection:",
+        "level2":"Acoustic Leak Detection",
         "details": "Uses sensitive microphones and acoustic sensors to detect sound variations caused by water escaping from pipes. Commonly used in water distribution networks and for underground pipes. Examples: correlators, ground microphones, and noise loggers.",
         "cd":"Commercial",
         "company":"Sewerin",
@@ -82,7 +82,7 @@
     },
     {
         "level1":"Leak Detection",
-        "level2":"Pressure Monitoring Systems: ",
+        "level2":"Pressure Monitoring Systems",
         "details": "Monitors pressure changes within a pipeline system to identify potential leaks.\n- Sudden drops in pressure can indicate a leak.\n- Often integrated with SCADA systems for real-time monitoring.",
         "cd":"Commercial",
         "company":"HWM; Test",
@@ -91,7 +91,7 @@
     },
     {
         "level1":"Leak Detection",
-        "level2":"Flow Monitoring and Analysis: ",
+        "level2":"Flow Monitoring and Analysis",
         "details": "Compares inflow and outflow to detect discrepancies indicating leakage. Can use mechanical, ultrasonic, or electromagnetic flow meters. Useful in both residential and commercial water systems.",
         "cd":"Domestic and Commercial",
         "company":"ADS",
@@ -100,7 +100,7 @@
     },
     {
         "level1":"Leak Detection",
-        "level2":"Infrared and Thermal Imaging:",
+        "level2":"Infrared and Thermal Imaging",
         "details": "Uses infrared cameras to detect temperature changes caused by escaping fluids. Effective for detecting leaks in large or inaccessible areas. Commonly applied in building inspections and pipeline monitoring.",
         "cd":"Commercial ",
         "company":"GPRS",
@@ -109,7 +109,7 @@
     },
     {
         "level1":"Leak Detection",
-        "level2":"Tracer Gas Detection: ",
+        "level2":"Tracer Gas Detection",
         "details": "Introduces a non-toxic, inert tracer gas (e.g., hydrogen or helium) into a pipeline. Specialized sensors detect escaping gas at leak points. Frequently used when other methods are ineffective.",
         "cd":"Commercial",
         "company":"The Leak Detection Company",
@@ -118,7 +118,7 @@
     },
     {
         "level1":"Leak Detection",
-        "level2":"Smart Metering and IoT-Based Solutions:",
+        "level2":"Smart Metering and IoT-Based Solutions",
         "details": "Uses smart water meters combined with IoT sensors to detect abnormal water usage patterns. Provides real-time data and automated alerts. Suitable for household, commercial, and municipal applications.",
         "cd":"Domestic and Commercial ",
         "company":"Aqualeak",
