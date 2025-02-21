@@ -10,6 +10,78 @@
     },
     {
         "level1":"Leak Detection",
+        "level2":"Acoustic Leak Detection:",
+        "details": "Uses sensitive microphones and acoustic sensors to detect sound variations caused by water escaping from pipes. Commonly used in water distribution networks and for underground pipes. Examples: correlators, ground microphones, and noise loggers.",
+        "cd":"Commercial",
+        "company":"BurntPlanet",
+        "website":"https:\/\/solarimpulse.com\/companhias\/buntplanet#",
+        "offering":"BuntPlanet: Develops software solutions for water utilities, including leak detection and water loss management systems that analyze data to identify anomalies indicative of leaks."
+    },
+        {
+        "level1":"Leak Detection",
+        "level2":"Acoustic Leak Detection:",
+        "details": "Uses sensitive microphones and acoustic sensors to detect sound variations caused by water escaping from pipes. Commonly used in water distribution networks and for underground pipes. Examples: correlators, ground microphones, and noise loggers.",
+        "cd":"Commercial",
+        "company":"Echologics (a Mueller brand)",
+        "website":"https:\/\/www.echologics.com\/",
+        "offering":"Echologics (a Mueller brand): Specializes in non-invasive acoustic technologies for leak detection and pipe condition assessment in water infrastructure, enabling utilities to locate leaks without service interruptions."
+    },
+    {
+        "level1":"Leak Detection",
+        "level2":"Acoustic Leak Detection:",
+        "details": "Uses sensitive microphones and acoustic sensors to detect sound variations caused by water escaping from pipes. Commonly used in water distribution networks and for underground pipes. Examples: correlators, ground microphones, and noise loggers.",
+        "cd":"Commercial",
+        "company":"FIDO",
+        "website":"https:\/\/www.fido.tech\/",
+        "offering":"Echologics (a Mueller brand): FIDO develops AI-powered leak detection solutions that analyze acoustic data to accurately pinpoint leaks within water distribution networks."
+    },
+        {
+        "level1":"Leak Detection",
+        "level2":"Acoustic Leak Detection:",
+        "details": "Uses sensitive microphones and acoustic sensors to detect sound variations caused by water escaping from pipes. Commonly used in water distribution networks and for underground pipes. Examples: correlators, ground microphones, and noise loggers.",
+        "cd":"Commercial",
+        "company":"Gütermann",
+        "website":"https:\/\/www.gutermann-water.com\/",
+        "offering":""
+    },
+        {
+        "level1":"Leak Detection",
+        "level2":"Acoustic Leak Detection:",
+        "details": "Uses sensitive microphones and acoustic sensors to detect sound variations caused by water escaping from pipes. Commonly used in water distribution networks and for underground pipes. Examples: correlators, ground microphones, and noise loggers.",
+        "cd":"Commercial",
+        "company":"HWM",
+        "website":"https:\/\/www.hwmglobal.com\/",
+        "offering":"HWM offers monitoring and telemetry solutions for water, wastewater, and gas networks, focusing on leak detection and network management."
+    },
+        {
+        "level1":"Leak Detection",
+        "level2":"Acoustic Leak Detection:",
+        "details": "Uses sensitive microphones and acoustic sensors to detect sound variations caused by water escaping from pipes. Commonly used in water distribution networks and for underground pipes. Examples: correlators, ground microphones, and noise loggers.",
+        "cd":"Commercial",
+        "company":"Primayer (Aqua Technology Solutions)",
+        "website":"https:\/\/www.primayer.com\/",
+        "offering":"Primayer develops and supplies technologies for water network monitoring and leak detection, assisting utilities in managing water loss and improving network efficiency."
+    },
+        {
+        "level1":"Leak Detection",
+        "level2":"Acoustic Leak Detection:",
+        "details": "Uses sensitive microphones and acoustic sensors to detect sound variations caused by water escaping from pipes. Commonly used in water distribution networks and for underground pipes. Examples: correlators, ground microphones, and noise loggers.",
+        "cd":"Commercial",
+        "company":"SebaKMT (by Megger)",
+        "website":"https:\/\/www.sebakmt.com\/",
+        "offering":" "
+    },
+        {
+        "level1":"Leak Detection",
+        "level2":"Acoustic Leak Detection:",
+        "details": "Uses sensitive microphones and acoustic sensors to detect sound variations caused by water escaping from pipes. Commonly used in water distribution networks and for underground pipes. Examples: correlators, ground microphones, and noise loggers.",
+        "cd":"Commercial",
+        "company":"Sewerin",
+        "website":"https:\/\/www.sewerin.com\/",
+        "offering":"Sewerin provides a range of systems for water leak detection, including electro-acoustic devices, correlators, and noise loggers, designed to accurately locate leaks in water networks."
+    },
+    {
+        "level1":"Leak Detection",
         "level2":"Pressure Monitoring Systems: ",
         "details": "Monitors pressure changes within a pipeline system to identify potential leaks.\n- Sudden drops in pressure can indicate a leak.\n- Often integrated with SCADA systems for real-time monitoring.",
         "cd":"Commercial",
