@@ -233,6 +233,69 @@
         "website":"https:\/\/www.aqualeak.com\/",
         "offering":"Offers smart water meters combined with IoT sensors to detect abnormal water usage patterns in both domestic and commercial settings."
     },
+        {
+        "level1":"Leak Detection",
+        "level2":"Smart Metering and IoT-Based Solutions",
+        "details": "Uses smart water meters combined with IoT sensors to detect abnormal water usage patterns. Provides real-time data and automated alerts. Suitable for household, commercial, and municipal applications.",
+        "cd":"Domestic and Commercial ",
+        "company":"EnviroTech Alarms Ltd",
+        "website":"https:\/\/www.envirotechalarms.com\/",
+        "offering":"Provides IoT-based water leak detection systems suitable for various applications."
+    },
+        {
+        "level1":"Leak Detection",
+        "level2":"Smart Metering and IoT-Based Solutions",
+        "details": "Uses smart water meters combined with IoT sensors to detect abnormal water usage patterns. Provides real-time data and automated alerts. Suitable for household, commercial, and municipal applications.",
+        "cd":"Domestic and Commercial ",
+        "company":"Flume",
+        "website":"https:\/\/flumewater.com\/",
+        "offering":"Delivers smart water monitoring devices that provide real-time data and automated alerts for households."
+    },
+        {
+        "level1":"Leak Detection",
+        "level2":"Smart Metering and IoT-Based Solutions",
+        "details": "Uses smart water meters combined with IoT sensors to detect abnormal water usage patterns. Provides real-time data and automated alerts. Suitable for household, commercial, and municipal applications.",
+        "cd":"Domestic and Commercial ",
+        "company":"Hulo",
+        "website":"https:\/\/www.hulo.co\/",
+        "offering":"Develops IoT-based solutions for water monitoring and leak detection in residential and commercial properties."
+    },
+        {
+        "level1":"Leak Detection",
+        "level2":"Smart Metering and IoT-Based Solutions",
+        "details": "Uses smart water meters combined with IoT sensors to detect abnormal water usage patterns. Provides real-time data and automated alerts. Suitable for household, commercial, and municipal applications.",
+        "cd":"Domestic and Commercial ",
+        "company":"InfoTiles",
+        "website":"https:\/\/infotiles.no\/",
+        "offering":"Provides AI-powered analytics platforms for sustainable water and sewer management, integrating IoT data for leak detection"
+    },
+        {
+        "level1":"Leak Detection",
+        "level2":"Smart Metering and IoT-Based Solutions",
+        "details": "Uses smart water meters combined with IoT sensors to detect abnormal water usage patterns. Provides real-time data and automated alerts. Suitable for household, commercial, and municipal applications.",
+        "cd":"Domestic and Commercial ",
+        "company":"LeakBot",
+        "website":"https://www.leakbot.io/",
+        "offering":"Specializes in smart leak detection devices for households, monitoring water flow to identify leaks."
+    },
+        {
+        "level1":"Leak Detection",
+        "level2":"Smart Metering and IoT-Based Solutions",
+        "details": "Uses smart water meters combined with IoT sensors to detect abnormal water usage patterns. Provides real-time data and automated alerts. Suitable for household, commercial, and municipal applications.",
+        "cd":"Domestic and Commercial ",
+        "company":"WaterSignal",
+        "website":"http:\/\/www.watersignal.com",
+        "offering":"Offers smart water meters combined with IoT sensors to detect abnormal water usage patterns in both domestic and commercial settings."
+    },
+        {
+        "level1":"Leak Detection",
+        "level2":"Smart Metering and IoT-Based Solutions",
+        "details": "Uses smart water meters combined with IoT sensors to detect abnormal water usage patterns. Provides real-time data and automated alerts. Suitable for household, commercial, and municipal applications.",
+        "cd":"Domestic and Commercial ",
+        "company":"Wint",
+        "website":"https:\/\/wint.ai\/",
+        "offering":"Provides metering and analytics solutions for businesses to monitor water flow and detect anomalies indicating leaks."
+    },
     {
         "level1":"Pipe Inspection etc",
         "level2":"Acoustic-Based Condition Assessment",
