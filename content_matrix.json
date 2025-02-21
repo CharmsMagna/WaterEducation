@@ -2,7 +2,7 @@
     {
         "level1":"Leak Detection",
         "level2":"Acoustic Leak Detection:",
-        "details": "Uses sensitive microphones and acoustic sensors to detect sound variations caused by water escaping from pipes. Commonly used in water distribution networks and for underground pipes. Examples: correlators, ground microphones, and noise loggers."
+        "details": "Uses sensitive microphones and acoustic sensors to detect sound variations caused by water escaping from pipes. Commonly used in water distribution networks and for underground pipes. Examples: correlators, ground microphones, and noise loggers.",
         "cd":"Commercial",
         "company":"Aquarius Spectrum (by Oilaxis)",
         "website":"https:\/\/www.aquarius-spectrum.com\/",
