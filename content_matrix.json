@@ -125,7 +125,7 @@
         "website":"https:\/\/www.siemens.com\/",
         "offering":"Siemens offers AI-based leak detection solutions that help reduce non-revenue water by up to 50%, saving money and resources. "
     },
-    {
+        {
         "level1":"Leak Detection",
         "level2":"Flow Monitoring and Analysis",
         "details": "Compares inflow and outflow to detect discrepancies indicating leakage. Can use mechanical, ultrasonic, or electromagnetic flow meters. Useful in both residential and commercial water systems.",
@@ -133,6 +133,51 @@
         "company":"ADS",
         "website":"https:\/\/www.adsenv.com\/",
         "offering":"Provides flow monitoring solutions to detect discrepancies indicating leakage."
+    },
+    {
+        "level1":"Leak Detection",
+        "level2":"Flow Monitoring and Analysis",
+        "details": "Compares inflow and outflow to detect discrepancies indicating leakage. Can use mechanical, ultrasonic, or electromagnetic flow meters. Useful in both residential and commercial water systems.",
+        "cd":"Domestic and Commercial",
+        "company":"Grundfos",
+        "website":"https:\/\/www.grundfos.com\/",
+        "offering":"Offers advanced flow monitoring equipment suitable for both residential and commercial water systems."
+    },
+        {
+        "level1":"Leak Detection",
+        "level2":"Flow Monitoring and Analysis",
+        "details": "Compares inflow and outflow to detect discrepancies indicating leakage. Can use mechanical, ultrasonic, or electromagnetic flow meters. Useful in both residential and commercial water systems.",
+        "cd":"Domestic and Commercial",
+        "company":"LeakBot",
+        "website":"https:\/\/www.leakbot.io\/",
+        "offering":"Specializes in smart leak detection devices for households, monitoring water flow to identify leaks."
+    },
+        {
+        "level1":"Leak Detection",
+        "level2":"Flow Monitoring and Analysis",
+        "details": "Compares inflow and outflow to detect discrepancies indicating leakage. Can use mechanical, ultrasonic, or electromagnetic flow meters. Useful in both residential and commercial water systems.",
+        "cd":"Domestic and Commercial",
+        "company":"Pure Technologies (a Xylem brand)",
+        "website":"https:\/\/www.xylem.com\/en-us\/brands\/pure-technologies\/",
+        "offering":"Provides comprehensive flow monitoring and leak detection solutions for large-scale water networks."
+    },
+        {
+        "level1":"Leak Detection",
+        "level2":"Flow Monitoring and Analysis",
+        "details": "Compares inflow and outflow to detect discrepancies indicating leakage. Can use mechanical, ultrasonic, or electromagnetic flow meters. Useful in both residential and commercial water systems.",
+        "cd":"Domestic and Commercial",
+        "company":"WaterSignal",
+        "website":"https:\/\/watersignal.com\/",
+        "offering":"Offers real-time water monitoring systems that track usage and detect leaks in commercial properties."
+    },
+        {
+        "level1":"Leak Detection",
+        "level2":"Flow Monitoring and Analysis",
+        "details": "Compares inflow and outflow to detect discrepancies indicating leakage. Can use mechanical, ultrasonic, or electromagnetic flow meters. Useful in both residential and commercial water systems.",
+        "cd":"Domestic and Commercial",
+        "company":"Wint",
+        "website":"https:\/\/wint.ai\/",
+        "offering":"Provides metering and analytics solutions for businesses to monitor water flow and detect anomalies indicating leaks."
     },
     {
         "level1":"Leak Detection",
