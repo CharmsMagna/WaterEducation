@@ -55,7 +55,7 @@
     },
     {
         "level1":"Pipe Inspection etc",
-        "level2":"1. Acoustic-Based Condition Assessment",
+        "level2":"Acoustic-Based Condition Assessment",
         "cd":"Commercial",
         "company":"Echologics (a Mueller brand) ",
         "website":"https:\/\/www.echologics.com\/",
@@ -63,7 +63,7 @@
     },
     {
         "level1":"Pipe Inspection etc",
-        "level2":"2. Smart Sensors & IoT Solutions",
+        "level2":"Smart Sensors & IoT Solutions",
         "cd":"Domestic and Commercial",
         "company":"HWM ",
         "website":"https:\/\/www.hwmglobal.com\/",
@@ -71,7 +71,7 @@
     },
     {
         "level1":"Pipe Inspection etc",
-        "level2":"3. Ground Penetrating Radar (GPR) and Electromagnetic Scanning",
+        "level2":"Ground Penetrating Radar (GPR) and Electromagnetic Scanning",
         "cd":"Commercial",
         "company":"GPRS",
         "website":"https:\/\/www.gprs.com\/",
@@ -79,7 +79,7 @@
     },
     {
         "level1":"Pipe Inspection etc",
-        "level2":"4. Robotic & CCTV Inspections",
+        "level2":"Robotic & CCTV Inspections",
         "cd":"Commercial",
         "company":"Lanes Group",
         "website":"https:\/\/www.lanesfordrains.co.uk\/",
@@ -87,7 +87,7 @@
     },
     {
         "level1":"Pipe Inspection etc",
-        "level2":"5. Pressure and Flow Analysis for Structural Assessment",
+        "level2":"Pressure and Flow Analysis for Structural Assessment",
         "cd":"Commercial",
         "company":"Primayer (Aqua Technology Solutions)",
         "website":"https:\/\/www.primayer.com\/",
@@ -95,7 +95,7 @@
     },
     {
         "level1":"Pipe Inspection etc",
-        "level2":"6. Satellite Imaging and Aerial Surveillance",
+        "level2":"Satellite Imaging and Aerial Surveillance",
         "cd":"Commercial",
         "company":"Asterra",
         "website":"https:\/\/www.asterra.io\/",
@@ -119,7 +119,7 @@
     },
     {
         "level1":"Pressure Management",
-        "level2":"6. Predictive Analytics & Optimization Software",
+        "level2":"Predictive Analytics & Optimization Software",
         "cd":"Commercial",
         "company":"BuntPlanet",
         "website":"https:\/\/www.buntplanet.com\/",
@@ -175,7 +175,7 @@
     },
     {
         "level1":"Smart Metering and IoT",
-        "level2":"1. Advanced Metering Infrastructure (AMI)",
+        "level2":"Advanced Metering Infrastructure (AMI)",
         "cd":"Domestic and Commercial",
         "company":"HWM ",
         "website":"https:\/\/www.hwmglobal.com\/",
@@ -183,7 +183,7 @@
     },
     {
         "level1":"Smart Metering and IoT",
-        "level2":"3. IoT-Based Smart Metering Solutions",
+        "level2":"IoT-Based Smart Metering Solutions",
         "cd":"Domestic and Commercial ",
         "company":"LeakBot ",
         "website":"https:\/\/www.leakbot.io\/",
@@ -191,7 +191,7 @@
     },
     {
         "level1":"Smart Metering and IoT",
-        "level2":"4. Smart Meter Data Analytics",
+        "level2":"Smart Meter Data Analytics",
         "cd":"Domestic and Commercial",
         "company":"BuntPlanet ",
         "website":"https:\/\/www.buntplanet.com\/",
@@ -199,7 +199,7 @@
     },
     {
         "level1":"Smart Metering and IoT",
-        "level2":"5. Smart Metering for Non-Household Applications",
+        "level2":"Smart Metering for Non-Household Applications",
         "cd":"Commercial",
         "company":"WaterSignal ",
         "website":"https:\/\/www.watersignal.com\/",
@@ -207,7 +207,7 @@
     },
     {
         "level1":"Smart Metering and IoT",
-        "level2":"6. Smart Metering Integration with Leak Detection",
+        "level2":"Smart Metering Integration with Leak Detection",
         "cd":"Domestic and Commercial",
         "company":"LeakBot",
         "website":"https:\/\/www.leakbot.io\/",
@@ -215,7 +215,7 @@
     },
     {
         "level1":"Smart Metering and IoT",
-        "level2":"7. Smart Metering for Water Efficiency and Conservation",
+        "level2":"Smart Metering for Water Efficiency and Conservation",
         "cd":"Domestic and Commercial ",
         "company":"Flume",
         "website":"www.flumewater.com",
