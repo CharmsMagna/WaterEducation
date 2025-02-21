@@ -28,7 +28,8 @@
     },
     {
         "level1":"Leak Detection",
-        "level2":"Infrared and Thermal Imaging:  \n- Uses infrared cameras to detect temperature changes caused by escaping fluids.\n- Effective for detecting leaks in large or inaccessible areas.\nCommonly applied in building inspections and pipeline monitoring.",
+        "level2":"Infrared and Thermal Imaging:",
+        "details": "Uses infrared cameras to detect temperature changes caused by escaping fluids. Effective for detecting leaks in large or inaccessible areas. Commonly applied in building inspections and pipeline monitoring.",
         "cd":"Commercial ",
         "company":"GPRS",
         "website":"https:\/\/www.gp-radar.com\/",
@@ -36,7 +37,8 @@
     },
     {
         "level1":"Leak Detection",
-        "level2":"Tracer Gas Detection: \n- Introduces a non-toxic, inert tracer gas (e.g., hydrogen or helium) into a pipeline.\n- Specialized sensors detect escaping gas at leak points.\n- Frequently used when other methods are ineffective.",
+        "level2":"Tracer Gas Detection: ",
+        "details": "Introduces a non-toxic, inert tracer gas (e.g., hydrogen or helium) into a pipeline. Specialized sensors detect escaping gas at leak points. Frequently used when other methods are ineffective.",
         "cd":"Commercial",
         "company":"The Leak Detection Company",
         "website":"https:\/\/www.theleakdetectioncompany.com\/",
@@ -44,7 +46,8 @@
     },
     {
         "level1":"Leak Detection",
-        "level2":"Smart Metering and IoT-Based Solutions: \n-Uses smart water meters combined with IoT sensors to detect abnormal water usage patterns.\n- Provides real-time data and automated alerts.\n- Suitable for household, commercial, and municipal applications.",
+        "level2":"Smart Metering and IoT-Based Solutions:",
+        "details": "Uses smart water meters combined with IoT sensors to detect abnormal water usage patterns. Provides real-time data and automated alerts. Suitable for household, commercial, and municipal applications.",
         "cd":"Domestic and Commercial ",
         "company":"Aqualeak",
         "website":"https:\/\/www.aqualeak.com\/",
@@ -228,7 +231,7 @@
     },
     {
         "level1":"Sustainable Urban Drainage Systems (SuDS)",
-        "level2":"Purpose:",
+        "level2":"Sustainable urban drainage systems:",
         "cd":"Commercial",
         "company":"Polypipe Civils & Green Urbanisation",
         "website":"Polypipe Civils & Green Urbanisation \u2013 www.polypipe.com",
@@ -236,7 +239,7 @@
     },
     {
         "level1":"Greywater Recycling",
-        "level2":"Purpose:",
+        "level2":"Systems to Recycle Greywater",
         "cd":"Domestic",
         "company":"ReAqua Systems",
         "website":"ReAqua Systems \u2013 www.reaqua.com",
@@ -244,7 +247,7 @@
     },
     {
         "level1":"Rainwater Harvesting",
-        "level2":"Purpose:",
+        "level2":"Rainwater harvesting systems",
         "cd":"Domestic & Commercial",
         "company":"Kingspan Water & Energy",
         "website":"Kingspan Water & Energy \u2013 www.kingspan.com",
@@ -252,7 +255,8 @@
     },
     {
         "level1":"Closed Loop Systems",
-        "level2":"Closed loop water treatment systems recycle and reuse water within industrial and commercial processes, reducing water consumption and minimizing environmental impact. These systems are essential in industries like power generation, chemical processing, and manufacturing, where large volumes of water are used for cooling, heating, or processing.",
+        "level2":"Closed loop water treatment systems",
+        "details": "Recycle and reuse water within industrial and commercial processes, reducing water consumption and minimizing environmental impact. These systems are essential in industries like power generation, chemical processing, and manufacturing, where large volumes of water are used for cooling, heating, or processing.",
         "cd":"Commercial",
         "company":"ChemREADY",
         "website":"https:\/\/www.getchemready.com\/",
@@ -260,23 +264,26 @@
     },
     {
         "level1":"Landscaping, agricultural, and outdoor water reuse",
-        "level2":"Implementing water reuse systems in landscaping and agriculture conserves potable water by utilizing alternative sources such as greywater or harvested rainwater. This practice is beneficial for irrigation in both residential gardens and large-scale agricultural operations, promoting sustainability and reducing water costs.",
+        "level2":"Landscaping, agricultural and outdoor water reuse systems",
+        "details": "Implementing water reuse systems in landscaping and agriculture conserves potable water by utilizing alternative sources such as greywater or harvested rainwater. This practice is beneficial for irrigation in both residential gardens and large-scale agricultural operations, promoting sustainability and reducing water costs.",
         "cd":"Commercial and Domestic",
         "company":"Biwater",
         "website":"https:\/\/www.biwater.com\/",
         "offering":"Specializes in designing and constructing water and wastewater treatment plants, including systems for water reuse in agricultural and landscaping applications"
     },
     {
-        "level1":"On-site water reuse systems",
-        "level2":"On-site water reuse systems treat and repurpose wastewater (such as greywater) within the same location where it is generated. This approach reduces the demand for fresh water and decreases the volume of wastewater discharged into municipal systems. It's applicable in residential settings for toilet flushing and irrigation, as well as in commercial buildings for various non-potable uses",
+        "level1":"On-site Water Reuse Systems",
+        "level2":"On-site water reuse systems",
+        "details": "Treat and repurpose wastewater (such as greywater) within the same location where it is generated. This approach reduces the demand for fresh water and decreases the volume of wastewater discharged into municipal systems. It's applicable in residential settings for toilet flushing and irrigation, as well as in commercial buildings for various non-potable uses.",
         "cd":"Commercial and Domestic",
         "company":"Biwater",
         "website":"https:\/\/www.biwater.com\/",
         "offering":"Provides solutions for on-site water reuse, including the design and implementation of treatment systems that allow for the safe reuse of wastewater in various applications."
     },
     {
-        "level1":"Water and energy integration",
-        "level2":" Integrating water and energy systems involves optimizing the use of both resources simultaneously. In industrial settings, this can mean recovering energy from wastewater treatment processes or implementing systems that reduce both water and energy consumption. This holistic approach leads to cost savings and environmental benefits.",
+        "level1":"Water and Energy Integration",
+        "level2":" Integrating water and energy systems",
+        "details": "Involves optimizing the use of both resources simultaneously. In industrial settings, this can mean recovering energy from wastewater treatment processes or implementing systems that reduce both water and energy consumption. This holistic approach leads to cost savings and environmental benefits.",
         "cd":"Commercial",
         "company":"Closed Loop Partners",
         "website":"https:\/\/www.closedlooppartners.com\/",
@@ -284,7 +291,8 @@
     },
     {
         "level1":"Stormwater management solutions",
-        "level2":"Stormwater management solutions aim to control and use rainwater runoff to prevent flooding, reduce pollution, and replenish groundwater. In urban areas, implementing green infrastructure like rain gardens, permeable pavements, and green roofs can transform cities into \"sponge cities,\" absorbing and utilizing stormwater effectively.",
+        "level2":"Stormwater management solutions ",
+        "details": "Aim to control and use rainwater runoff to prevent flooding, reduce pollution, and replenish groundwater. In urban areas, implementing green infrastructure like rain gardens, permeable pavements, and green roofs can transform cities into \"sponge cities,\" absorbing and utilizing stormwater effectively.",
         "cd":"Commercial and Domestic",
         "company":"Biwater",
         "website":"https:\/\/www.biwater.com\/",
@@ -292,7 +300,8 @@
     },
     {
         "level1":"Water audits",
-        "level2":"Water audits involve assessing water use within a facility or household to identify areas of inefficiency and recommend improvements. This process helps in reducing water consumption, lowering utility bills, and promoting sustainable water use practices.",
+        "level2":"Water audits ",
+        "details": "Involve assessing water use within a facility or household to identify areas of inefficiency and recommend improvements. This process helps in reducing water consumption, lowering utility bills, and promoting sustainable water use practices.",
         "cd":"Commercial and Domestic",
         "company":"ChemREADY",
         "website":"https:\/\/www.getchemready.com\/",
@@ -300,7 +309,8 @@
     },
     {
         "level1":"Water efficiency labeling",
-        "level2":"Water efficiency labeling programs certify products and appliances that meet specific water-saving criteria, guiding consumers and businesses in selecting fixtures that reduce water usage. This initiative promotes the adoption of water-efficient technologies and practices across various sectors.",
+        "level2":"Water efficiency labeling programs",
+        "details": "Certify products and appliances that meet specific water-saving criteria, guiding consumers and businesses in selecting fixtures that reduce water usage. This initiative promotes the adoption of water-efficient technologies and practices across various sectors..",
         "cd":"Commercial and Domestic",
         "company":"Waterwise",
         "website":"https:\/\/www.waterwise.org.uk\/",
