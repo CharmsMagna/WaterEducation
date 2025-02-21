@@ -83,11 +83,47 @@
     {
         "level1":"Leak Detection",
         "level2":"Pressure Monitoring Systems",
-        "details": "Monitors pressure changes within a pipeline system to identify potential leaks.\n- Sudden drops in pressure can indicate a leak.\n- Often integrated with SCADA systems for real-time monitoring.",
+        "details": "Monitors pressure changes within a pipeline system to identify potential leaks. Sudden drops in pressure can indicate a leak. Often integrated with SCADA systems for real-time monitoring.",
         "cd":"Commercial",
-        "company":"HWM; Test",
+        "company":"HWM",
         "website":"https:\/\/www.hwmglobal.com\/",
-        "offering":"HWM: Offers monitoring and telemetry solutions for water, wastewater, and gas networks, focusing on leak detection and network management."
+        "offering":"HWM offers monitoring and telemetry solutions for water, wastewater, and gas networks, focusing on leak detection and network management."
+    },
+        {
+        "level1":"Leak Detection",
+        "level2":"Pressure Monitoring Systems",
+        "details": "Monitors pressure changes within a pipeline system to identify potential leaks. Sudden drops in pressure can indicate a leak. Often integrated with SCADA systems for real-time monitoring.",
+        "cd":"Commercial",
+        "company":"Ovarro (Connecting Technologies)",
+        "website":"https:\/\/www.ovarro.com\/",
+        "offering":"Ovarro provides remote monitoring solutions and control systems for utilities, including leak detection and network management technologies."
+    },
+        {
+        "level1":"Leak Detection",
+        "level2":"Pressure Monitoring Systems",
+        "details": "Monitors pressure changes within a pipeline system to identify potential leaks. Sudden drops in pressure can indicate a leak. Often integrated with SCADA systems for real-time monitoring.",
+        "cd":"Commercial",
+        "company":"Primayer (Aqua Technology Solutions)",
+        "website":"https:\/\/www.primayer.com\/",
+        "offering":"Primayer develops and supplies technologies for water network monitoring and leak detection, assisting utilities in managing water loss and improving network efficiency."
+    },
+        {
+        "level1":"Leak Detection",
+        "level2":"Pressure Monitoring Systems",
+        "details": "Monitors pressure changes within a pipeline system to identify potential leaks. Sudden drops in pressure can indicate a leak. Often integrated with SCADA systems for real-time monitoring.",
+        "cd":"Commercial",
+        "company":"Syrinix",
+        "website":"hhttps:\/\/syrinix.com\/",
+        "offering":"Syrinix provides intelligent pipeline monitoring solutions, including pressure and acoustic monitoring systems that detect leaks and bursts in water networks, enabling rapid response to minimize water loss. "
+    },
+        {
+        "level1":"Leak Detection",
+        "level2":"Pressure Monitoring Systems",
+        "details": "Monitors pressure changes within a pipeline system to identify potential leaks. Sudden drops in pressure can indicate a leak. Often integrated with SCADA systems for real-time monitoring.",
+        "cd":"Commercial",
+        "company":"Siemens",
+        "website":"https:\/\/www.siemens.com\/",
+        "offering":"Siemens offers AI-based leak detection solutions that help reduce non-revenue water by up to 50%, saving money and resources. "
     },
     {
         "level1":"Leak Detection",
