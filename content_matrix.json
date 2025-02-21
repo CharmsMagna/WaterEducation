@@ -296,6 +296,43 @@
         "website":"https:\/\/wint.ai\/",
         "offering":"Provides metering and analytics solutions for businesses to monitor water flow and detect anomalies indicating leaks."
     },
+        {
+        "level1":"Leak Detection",
+        "level2":"Satellite-Based Leak Detection",
+        "details": "Employs satellite imagery to detect leaks in large water networks. Uses sensors to identify moisture patterns that could indicate leaks. Useful for large-scale infrastructure projects.",
+        "cd":"Commercial ",
+        "company":"Asterra",
+        "website":"https:\/\/asterra.io\/",
+        "offering":"Utilizes satellite imagery to detect leaks in large water networks by identifying moisture patterns."
+    },
+            {
+        "level1":"Leak Detection",
+        "level2":"Satellite-Based Leak Detection",
+        "details": "Employs satellite imagery to detect leaks in large water networks. Uses sensors to identify moisture patterns that could indicate leaks. Useful for large-scale infrastructure projects.",
+        "cd":"Commercial ",
+        "company":"Rezatec",
+        "website":"https:\/\/www.rezatec.com\/",
+        "offering":"Offers geospatial AI solutions, including satellite-based leak detection for large-scale infrastructure projects."
+    },
+            {
+        "level1":"Leak Detection",
+        "level2":"Satellite-Based Leak Detection",
+        "details": "Employs satellite imagery to detect leaks in large water networks. Uses sensors to identify moisture patterns that could indicate leaks. Useful for large-scale infrastructure projects.",
+        "cd":"Commercial ",
+        "company":"Sensat",
+        "website":"https:\/\/www.sensat.co.uk\/",
+        "offering":"Provides satellite-based geospatial data for infrastructure monitoring, aiding in leak detection."
+    },
+            {
+        "level1":"Leak Detection",
+        "level2":"Satellite-Based Leak Detection",
+        "details": "Employs satellite imagery to detect leaks in large water networks. Uses sensors to identify moisture patterns that could indicate leaks. Useful for large-scale infrastructure projects.",
+        "cd":"Commercial ",
+        "company":"Tenchijin",
+        "website":"https:\/\/tenchijin.com/\en\/",
+        "offering":"Employs satellite data to monitor water networks and detect potential leaks."
+    },
+    
     {
         "level1":"Pipe Inspection etc",
         "level2":"Acoustic-Based Condition Assessment",
