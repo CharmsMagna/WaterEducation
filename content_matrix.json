@@ -10,7 +10,8 @@
     },
     {
         "level1":"Leak Detection",
-        "level2":"Pressure Monitoring Systems: - Monitors pressure changes within a pipeline system to identify potential leaks.\n- Sudden drops in pressure can indicate a leak.\n- Often integrated with SCADA systems for real-time monitoring.",
+        "level2":"Pressure Monitoring Systems: ",
+        "details": "Monitors pressure changes within a pipeline system to identify potential leaks.\n- Sudden drops in pressure can indicate a leak.\n- Often integrated with SCADA systems for real-time monitoring.",
         "cd":"Commercial",
         "company":"HWM",
         "website":"https:\/\/www.hwmglobal.com\/",
@@ -18,7 +19,8 @@
     },
     {
         "level1":"Leak Detection",
-        "level2":"Flow Monitoring and Analysis: _ Compares inflow and outflow to detect discrepancies indicating leakage.\n_ Can use mechanical, ultrasonic, or electromagnetic flow meters.\n_ Useful in both residential and commercial water systems.",
+        "level2":"Flow Monitoring and Analysis: ",
+        "details": "Compares inflow and outflow to detect discrepancies indicating leakage. Can use mechanical, ultrasonic, or electromagnetic flow meters. Useful in both residential and commercial water systems.",
         "cd":"Domestic and Commercial",
         "company":"ADS",
         "website":"https:\/\/www.adsenv.com\/",
