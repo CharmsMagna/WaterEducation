@@ -215,6 +215,15 @@
         "website":"https:\/\/www.theleakdetectioncompany.com\/",
         "offering":"Specializes in using tracer gas methods to detect leaks in large or complex piping networks, primarily for commercial applications."
     },
+        {
+        "level1":"Leak Detection",
+        "level2":"Tracer Gas Detection",
+        "details": "Introduces a non-toxic, inert tracer gas (e.g., hydrogen or helium) into a pipeline. Specialized sensors detect escaping gas at leak points. Frequently used when other methods are ineffective.",
+        "cd":"Commercial",
+        "company":"WLLS (Water Leak Location Services)",
+        "website":"https:\/\/www.wlls.co.uk\/",
+        "offering":"Provides tracer gas detection services for specialized commercial or industrial applications."
+    },
     {
         "level1":"Leak Detection",
         "level2":"Smart Metering and IoT-Based Solutions",
