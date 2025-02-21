@@ -13,7 +13,7 @@
         "level2":"Pressure Monitoring Systems: ",
         "details": "Monitors pressure changes within a pipeline system to identify potential leaks.\n- Sudden drops in pressure can indicate a leak.\n- Often integrated with SCADA systems for real-time monitoring.",
         "cd":"Commercial",
-        "company":"HWM",
+        "company":"HWM; Test",
         "website":"https:\/\/www.hwmglobal.com\/",
         "offering":"HWM: Offers monitoring and telemetry solutions for water, wastewater, and gas networks, focusing on leak detection and network management."
     },
