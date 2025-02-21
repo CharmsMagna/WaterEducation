@@ -190,6 +190,24 @@
     },
     {
         "level1":"Leak Detection",
+        "level2":"Infrared and Thermal Imaging",
+        "details": "Uses infrared cameras to detect temperature changes caused by escaping fluids. Effective for detecting leaks in large or inaccessible areas. Commonly applied in building inspections and pipeline monitoring.",
+        "cd":"Commercial ",
+        "company":"Asterra",
+        "website":"https:\/\/asterra.io\/",
+        "offering":"Employs advanced thermal imaging techniques for pipeline monitoring and leak detection."
+    },
+    {
+        "level1":"Leak Detection",
+        "level2":"Infrared and Thermal Imaging",
+        "details": "Uses infrared cameras to detect temperature changes caused by escaping fluids. Effective for detecting leaks in large or inaccessible areas. Commonly applied in building inspections and pipeline monitoring.",
+        "cd":"Commercial ",
+        "company":"LeakTronics ",
+        "website":"https:\/\/leaktronics.com\/",
+        "offering":"Offers electronic leak detection equipment, including infrared and thermal imaging tools for building inspections and pipeline monitoring."
+    },
+    {
+        "level1":"Leak Detection",
         "level2":"Tracer Gas Detection",
         "details": "Introduces a non-toxic, inert tracer gas (e.g., hydrogen or helium) into a pipeline. Specialized sensors detect escaping gas at leak points. Frequently used when other methods are ineffective.",
         "cd":"Commercial",
