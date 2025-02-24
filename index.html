@@ -6,15 +6,34 @@
     <title>Water Education</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
         .hero-section {
             background: url('https://source.unsplash.com/1600x900/?nature,water') no-repeat center center/cover;
             color: white;
-            padding: 50px 0;
+            padding: 20px 0; /* Reduced padding */
             text-align: center;
         }
+
+        .navbar {
+            margin-bottom: 0; /* Remove margin below navbar */
+        }
+
+        .container {
+            margin-top: 0 !important; /* Override Bootstrap margin */
+        }
+
+        .mt-5 {
+            margin-top: 1rem !important; /* Reduce margin above sections */
+        }
+
         .card {
             transition: transform 0.3s;
         }
+
         .card:hover {
             transform: scale(1.05);
         }
@@ -38,37 +57,46 @@
         </div>
     </nav>
 
-    
-   <section class="hero-section">
-    <div class="container">
-        <h1 aria-label="Welcome to Water Education">Welcome to Water Education</h1>
-        <p>Place Holder.</p>
+    <section class="hero-section">
+        <div class="container">
+            <h1 aria-label="Welcome to Water Education">Welcome to Water Education</h1>
+            <p>Place Holder.</p>
+        </div>
+    </section>
+
+    <div class="container mt-3"> <!-- Reduced margin-top -->
+        <div class="row">
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">Placeholder1</h5>
+                        <p class="card-text">Placeholder.</p>
+                        <a href="#placeholder1" class="btn btn-primary">Learn More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">Placeholder2</h5>
+                        <p class="card-text">Placeholder.</p>
+                        <a href="#placeholder2" class="btn btn-primary">Learn More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4"> <!-- Ensuring a proper row structure -->
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">Placeholder3</h5>
+                        <p class="card-text">Placeholder.</p>
+                        <a href="#" class="btn btn-primary">Learn More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-</section>
 
-<div class="container mt-5">
-    <div class="row">
-        <div class="col-md-4 mb-4">
-            <div class="card h-100">
-                <div class="card-body">
-                    <h5 class="card-title">Placeholder1</h5>
-                    <p class="card-text">Placeholder.</p>
-                    <a href="#placeholder1" class="btn btn-primary">Learn More</a>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-4 mb-4">
-            <div class="card h-100">
-                <div class="card-body">
-                    <h5 class="card-title">Placeholder2</h5>
-                    <p class="card-text">Placeholder.</p>
-                    <a href="#placeholder2" class="btn btn-primary">Learn More</a>
-                </div>
-            </div>
-        </div>
-</div>
-
-    <div class="container mt-5" id="placeholder1">
+    <div class="container mt-3" id="placeholder1"> <!-- Reduced margin-top -->
         <div class="card">
             <div class="card-body">
                 <h2>Header</h2>
@@ -77,7 +105,7 @@
         </div>
     </div>
 
-    <div class="container mt-5" id="placeholder2">
+    <div class="container mt-3" id="placeholder2"> <!-- Reduced margin-top -->
         <div class="card">
             <div class="card-body">
                 <h2>Header</h2>
@@ -88,7 +116,6 @@
             </div>
         </div>
     </div>
-</div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
